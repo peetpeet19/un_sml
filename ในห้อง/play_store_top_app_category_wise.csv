@@ -1,0 +1,895 @@
+name,app_id,review,review_count,downloads,rated_for,category,publisher,tags,updated_on,price
+WhatsApp Messenger,com.whatsapp,4.3,170M reviews,5B+,Everyone,All apps,WhatsApp LLC,#1 top free communication | Communication | ,"Oct 12, 2022",$0.0
+Facebook,com.facebook.katana,3.1,131M reviews,5B+,Teen,All apps,"Meta Platforms, Inc.",#3 top grossing social | Social | ,"Oct 13, 2022",$0.0
+Instagram,com.instagram.android,4,140M reviews,1B+,Teen,All apps,Instagram,#3 top free social | Social | ,"Oct 13, 2022",$0.0
+Netflix,com.netflix.mediaclient,4.4,13.6M reviews,1B+,Teen,All apps,"Netflix, Inc.",#5 top free entertainment | Entertainment | ,"Oct 6, 2022",$0.0
+TikTok,com.zhiliaoapp.musically,4.4,52.5M reviews,1B+,Teen,All apps,TikTok Pte. Ltd.,#1 top grossing social | Social | ,"Oct 14, 2022",$0.0
+Disney+,com.disney.disneyplus,4.5,2.23M reviews,100M+,Teen,All apps,Disney,#2 top grossing entertainment | Entertainment | ,"Oct 4, 2022",$0.0
+Snapchat,com.snapchat.android,4.2,31.2M reviews,1B+,Teen,All apps,Snap Inc,#2 top free communication | Communication | ,"Oct 14, 2022",$0.0
+Messenger,com.facebook.orca,4.1,85.4M reviews,5B+,Everyone,All apps,"Meta Platforms, Inc.",#3 top free communication | Communication | ,"Oct 10, 2022",$0.0
+Google Chat,com.google.android.apps.dynamite,3.9,90.1K reviews,10M+,Everyone,All apps,Google LLC,#4 top free business | Business | ,"Oct 12, 2022",$0.0
+Spotify: Music and Podcasts,com.spotify.music,4.4,27.1M reviews,1B+,Teen,All apps,Spotify AB,#1 top free music & audio | Music & Audio | ,"Oct 13, 2022",$0.0
+YouTube TV: Live TV & more,com.google.android.apps.youtube.unplugged,4.2,114K reviews,10M+,Teen,All apps,Google LLC,#9 top free entertainment | Entertainment | ,"Oct 3, 2022",$0.0
+Twitter,com.twitter.android,3.7,20.3M reviews,1B+,Mature 17+,All apps,"Twitter, Inc.",#5 top free social | Social | ,"Oct 11, 2022",$0.0
+"Discord: Talk, Chat & Hang Out",com.discord,4,4.66M reviews,100M+,Teen,All apps,Discord Inc.,#1 top grossing communication | Communication | ,"Oct 11, 2022",$0.0
+Tubi - Movies & TV Shows,com.tubitv,4.8,1.63M reviews,100M+,Teen,All apps,Tubi TV,#4 top free entertainment | Entertainment | ,"Oct 10, 2022",$0.0
+Pluto TV - Live TV and Movies,tv.pluto.android,4.3,521K reviews,100M+,Teen,All apps,"Pluto, Inc.",#6 top free entertainment | Entertainment | ,"Oct 11, 2022",$0.0
+Telegram,org.telegram.messenger,4.4,11.6M reviews,1B+,Mature 17+,All apps,Telegram FZ-LLC,#4 top free communication | Communication | ,"Sep 21, 2022",$0.0
+Facebook Lite,com.facebook.lite,4,23.3M reviews,1B+,Teen,All apps,"Meta Platforms, Inc.",#7 top free social | Social | ,"Oct 9, 2022",$0.0
+Amazon Prime Video,com.amazon.avod.thirdpartyclient,4.2,3.59M reviews,100M+,Teen,All apps,Amazon Mobile LLC,#1 top free entertainment | Entertainment | ,"Oct 11, 2022",$0.0
+Amazon Shopping,com.amazon.mShop.android.shopping,4.5,3.23M reviews,500M+,Teen,All apps,Amazon Mobile LLC,#1 top free shopping | Shopping | ,"Oct 5, 2022",$0.0
+CapCut - Video Editor,com.lemon.lvoverseas,4.3,4.75M reviews,100M+,Everyone,All apps,Bytedance Pte. Ltd.,#1 top free video players & editors | Video Players & Editors | ,"Oct 11, 2022",$0.0
+WhatsApp Messenger,com.whatsapp,4.3,170M reviews,5B+,Everyone,All apps,WhatsApp LLC,#1 top free communication | Communication | ,"Oct 12, 2022",$0.0
+Facebook,com.facebook.katana,3.1,131M reviews,5B+,Teen,All apps,"Meta Platforms, Inc.",#3 top grossing social | Social | ,"Oct 13, 2022",$0.0
+Instagram,com.instagram.android,4,140M reviews,1B+,Teen,All apps,Instagram,#3 top free social | Social | ,"Oct 13, 2022",$0.0
+Netflix,com.netflix.mediaclient,4.4,13.6M reviews,1B+,Teen,All apps,"Netflix, Inc.",#5 top free entertainment | Entertainment | ,"Oct 6, 2022",$0.0
+TikTok,com.zhiliaoapp.musically,4.4,52.5M reviews,1B+,Teen,All apps,TikTok Pte. Ltd.,#1 top grossing social | Social | ,"Oct 14, 2022",$0.0
+Disney+,com.disney.disneyplus,4.5,2.23M reviews,100M+,Teen,All apps,Disney,#2 top grossing entertainment | Entertainment | ,"Oct 4, 2022",$0.0
+Snapchat,com.snapchat.android,4.2,31.2M reviews,1B+,Teen,All apps,Snap Inc,#2 top free communication | Communication | ,"Oct 14, 2022",$0.0
+Messenger,com.facebook.orca,4.1,85.4M reviews,5B+,Everyone,All apps,"Meta Platforms, Inc.",#3 top free communication | Communication | ,"Oct 10, 2022",$0.0
+Google Chat,com.google.android.apps.dynamite,3.9,90.1K reviews,10M+,Everyone,All apps,Google LLC,#4 top free business | Business | ,"Oct 12, 2022",$0.0
+Spotify: Music and Podcasts,com.spotify.music,4.4,27.1M reviews,1B+,Teen,All apps,Spotify AB,#1 top free music & audio | Music & Audio | ,"Oct 13, 2022",$0.0
+YouTube TV: Live TV & more,com.google.android.apps.youtube.unplugged,4.2,114K reviews,10M+,Teen,All apps,Google LLC,#9 top free entertainment | Entertainment | ,"Oct 3, 2022",$0.0
+Twitter,com.twitter.android,3.7,20.3M reviews,1B+,Mature 17+,All apps,"Twitter, Inc.",#5 top free social | Social | ,"Oct 11, 2022",$0.0
+"Discord: Talk, Chat & Hang Out",com.discord,4,4.66M reviews,100M+,Teen,All apps,Discord Inc.,#1 top grossing communication | Communication | ,"Oct 11, 2022",$0.0
+Tubi - Movies & TV Shows,com.tubitv,4.8,1.63M reviews,100M+,Teen,All apps,Tubi TV,#4 top free entertainment | Entertainment | ,"Oct 10, 2022",$0.0
+Pluto TV - Live TV and Movies,tv.pluto.android,4.3,521K reviews,100M+,Teen,All apps,"Pluto, Inc.",#6 top free entertainment | Entertainment | ,"Oct 11, 2022",$0.0
+Telegram,org.telegram.messenger,4.4,11.6M reviews,1B+,Mature 17+,All apps,Telegram FZ-LLC,#4 top free communication | Communication | ,"Sep 21, 2022",$0.0
+Facebook Lite,com.facebook.lite,4,23.3M reviews,1B+,Teen,All apps,"Meta Platforms, Inc.",#7 top free social | Social | ,"Oct 9, 2022",$0.0
+Amazon Prime Video,com.amazon.avod.thirdpartyclient,4.2,3.59M reviews,100M+,Teen,All apps,Amazon Mobile LLC,#1 top free entertainment | Entertainment | ,"Oct 11, 2022",$0.0
+Amazon Shopping,com.amazon.mShop.android.shopping,4.5,3.23M reviews,500M+,Teen,All apps,Amazon Mobile LLC,#1 top free shopping | Shopping | ,"Oct 5, 2022",$0.0
+CapCut - Video Editor,com.lemon.lvoverseas,4.3,4.75M reviews,100M+,Everyone,All apps,Bytedance Pte. Ltd.,#1 top free video players & editors | Video Players & Editors | ,"Oct 11, 2022",$0.0
+YouTube,com.google.android.youtube,4.2,144M reviews,10B+,Teen,All apps,Google LLC,#7 top free video players & editors | Video Players & Editors | ,"Oct 14, 2022",$0.0
+Google Maps,com.google.android.apps.maps,4.1,16.4M reviews,10B+,Everyone,All apps,Google LLC,Travel & Local | ,"Oct 14, 2022",$0.0
+TikTok,com.zhiliaoapp.musically,4.4,52.5M reviews,1B+,Teen,All apps,TikTok Pte. Ltd.,#1 top grossing social | Social | ,"Oct 14, 2022",$0.0
+Gmail,com.google.android.gm,4.2,11.9M reviews,10B+,Everyone,All apps,Google LLC,Communication | ,"Oct 13, 2022",$0.0
+Google Photos,com.google.android.apps.photos,4.5,46.2M reviews,5B+,Everyone,All apps,Google LLC,#4 top free photography | Photography | ,"Oct 12, 2022",$0.0
+Google Translate,com.google.android.apps.translate,4.4,8.55M reviews,1B+,Everyone,All apps,Google LLC,#10 top free tools | Tools | ,"Oct 12, 2022",$0.0
+Google Earth,com.google.earth,4.3,2.89M reviews,100M+,Everyone,All apps,Google LLC,#6 top free travel & local | Travel & Local | ,"May 23, 2022",$0.0
+YouTube Kids,com.google.android.apps.youtube.kids,4.4,2.23M reviews,100M+,Everyone,All apps,Google LLC,Entertainment | ,"Oct 3, 2022",$0.0
+Google Chrome: Fast & Secure,com.android.chrome,4.1,40.8M reviews,10B+,Everyone,All apps,Google LLC,Communication | ,"Oct 13, 2022",$0.0
+Google Maps Go,com.google.android.apps.mapslite,4.3,240K reviews,500M+,Everyone,All apps,Google LLC,Travel & Local | ,"Mar 21, 2022",$0.0
+Google,com.google.android.googlequicksearchbox,4.3,24.8M reviews,10B+,Everyone,All apps,Google LLC,Tools | ,"Oct 13, 2022",$0.0
+Google Opinion Rewards,com.google.android.apps.paidtasks,4.7,2.87M reviews,50M+,Everyone,All apps,Google LLC,Tools | ,"Oct 3, 2022",$0.0
+Disney+,com.disney.disneyplus,4.5,2.23M reviews,100M+,Teen,All apps,Disney,#2 top grossing entertainment | Entertainment | ,"Oct 4, 2022",$0.0
+Messages,com.google.android.apps.messaging,4.2,8.69M reviews,1B+,Everyone,All apps,Google LLC,Communication | ,"Oct 13, 2022",$0.0
+Chrome Beta,com.chrome.beta,4.4,443K reviews,10M+,Everyone,All apps,Google LLC,Productivity | ,"Oct 12, 2022",$0.0
+Google Chat,com.google.android.apps.dynamite,3.9,90.1K reviews,10M+,Everyone,All apps,Google LLC,#4 top free business | Business | ,"Oct 12, 2022",$0.0
+Google One,com.google.android.apps.subscriptions.red,4.3,387K reviews,500M+,Everyone,All apps,Google LLC,#1 top grossing productivity | Productivity | ,"Oct 11, 2022",$0.0
+Google Calendar,com.google.android.calendar,4.2,2.16M reviews,1B+,Everyone,All apps,Google LLC,Productivity | ,"Oct 10, 2022",$0.0
+Google Meet,com.google.android.apps.tachyon,4.6,9.63M reviews,5B+,Everyone,All apps,Google LLC,Communication | ,"Oct 12, 2022",$0.0
+Google TV,com.google.android.videos,3.9,2.2M reviews,5B+,Teen,All apps,Google LLC,Video Players & Editors | ,"Sep 28, 2022",$0.0
+Disney+,com.disney.disneyplus,4.5,2.23M reviews,100M+,Teen,All apps,Disney,#2 top grossing entertainment | Entertainment | ,"Oct 4, 2022",$0.0
+Google TV,com.google.android.videos,3.9,2.2M reviews,5B+,Teen,All apps,Google LLC,Video Players & Editors | ,"Sep 28, 2022",$0.0
+Amazon Freevee,com.amazon.imdb.tv.mobile.app,4,3.63K reviews,5M+,Teen,All apps,Amazon Mobile LLC,Entertainment | ,"Aug 8, 2022",$0.0
+Tubi - Movies & TV Shows,com.tubitv,4.8,1.63M reviews,100M+,Teen,All apps,Tubi TV,#4 top free entertainment | Entertainment | ,"Oct 10, 2022",$0.0
+Paramount+ | Peak Streaming,com.cbs.ott,1.2,201 reviews,5M+,Teen,All apps,"CBS Interactive, Inc.",Entertainment | ,"Sep 29, 2022",$0.0
+SHOWTIME,com.showtime.standalone,3.4,24.9K reviews,5M+,Teen,All apps,Showtime Digital Inc.,Entertainment | ,"Oct 11, 2022",$0.0
+STARZ,com.bydeluxe.d3.android.program.starz,4.6,161K reviews,10M+,Teen,All apps,"Starz Entertainment, LLC",#10 top grossing entertainment | Entertainment | ,"Oct 3, 2022",$0.0
+NFL,com.gotv.nflgamecenter.us.lite,3.9,628K reviews,100M+,Everyone,All apps,NFL Enterprises LLC,#3 top grossing sports | Sports | ,"Oct 14, 2022",$0.0
+BET+,com.viacom.betplus,3.7,20.7K reviews,1M+,Teen,All apps,BET Networks,Entertainment | ,"Oct 12, 2022",$0.0
+"SLING: Live TV, Shows & Movies",com.sling,3.9,87K reviews,10M+,Teen,All apps,"Sling TV, L.L.C.",#9 top grossing entertainment | Entertainment | ,"Sep 26, 2022",$0.0
+Spectrum TV,com.TWCableTV,4.6,183K reviews,10M+,Teen,All apps,Charter/Spectrum,Entertainment | ,"Oct 7, 2022",$0.0
+Yahoo Sports: Scores & Updates,com.yahoo.mobile.client.android.sportacular,4.7,146K reviews,10M+,Everyone,All apps,Yahoo,Sports | ,"Oct 3, 2022",$0.0
+CNN Breaking US & World News,com.cnn.mobile.android.phone,4.6,552K reviews,50M+,Everyone 10+,All apps,CNN,News & Magazines | ,"Oct 3, 2022",$0.0
+YouTube Kids,com.google.android.apps.youtube.kids,4.4,2.23M reviews,100M+,Everyone,All apps,Google LLC,Entertainment | ,"Oct 3, 2022",$0.0
+YouTube TV: Live TV & more,com.google.android.apps.youtube.unplugged,4.2,114K reviews,10M+,Teen,All apps,Google LLC,#9 top free entertainment | Entertainment | ,"Oct 3, 2022",$0.0
+Pandora - Music & Podcasts,com.pandora.android,4.2,3.38M reviews,100M+,Teen,All apps,Pandora,#1 top grossing music & audio | Music & Audio | ,"Oct 12, 2022",$0.0
+Reddit,com.reddit.frontpage,4.1,2.67M reviews,100M+,Mature 17+,All apps,reddit Inc.,#6 top free social | Social | ,"Oct 11, 2022",$0.0
+SoundCloud: Play Music & Songs,com.soundcloud.android,4.7,5.98M reviews,100M+,Teen,All apps,SoundCloud,#4 top free music & audio | Music & Audio | ,"Oct 14, 2022",$0.0
+Paramount+ | Peak Streaming,com.cbs.app,3.9,274K reviews,10M+,Teen,All apps,"CBS Interactive, Inc.",#5 top grossing entertainment | Entertainment | ,"Sep 29, 2022",$0.0
+Money Turn - play and invest,moneyturn.app,4.4,12.5K reviews,500K+,Everyone,All apps,Money Turn,Lifestyle | ,"Sep 28, 2022",$0.0
+"iHeart: Music, Radio, Podcasts",com.clearchannel.iheartradio.controller,4.6,2.29M reviews,50M+,Teen,All apps,"iHeartMedia, Inc.",#2 top grossing music & audio | Music & Audio | ,"Sep 27, 2022",$0.0
+Paramount+ | Peak Streaming,com.cbs.ott,1.2,201 reviews,5M+,Teen,All apps,"CBS Interactive, Inc.",Entertainment | ,"Sep 29, 2022",$0.0
+SHOWTIME,com.showtime.standalone,3.4,24.9K reviews,5M+,Teen,All apps,Showtime Digital Inc.,Entertainment | ,"Oct 11, 2022",$0.0
+"TuneIn Radio: News, Music & FM",tunein.player,4.7,2.28M reviews,100M+,Teen,All apps,TuneIn Inc,#5 top grossing music & audio | Music & Audio | ,"Oct 12, 2022",$0.0
+PBS KIDS Video,org.pbskids.video,4.4,47.3K reviews,10M+,Everyone,All apps,PBS KIDS,Education | ,"Oct 3, 2022",$0.0
+STARZ,com.bydeluxe.d3.android.program.starz,4.6,161K reviews,10M+,Teen,All apps,"Starz Entertainment, LLC",#10 top grossing entertainment | Entertainment | ,"Oct 3, 2022",$0.0
+NFL,com.gotv.nflgamecenter.us.lite,3.9,628K reviews,100M+,Everyone,All apps,NFL Enterprises LLC,#3 top grossing sports | Sports | ,"Oct 14, 2022",$0.0
+The NBC App - Stream TV Shows,com.nbcuni.nbc,4.1,128K reviews,10M+,Teen,All apps,"NBCUniversal Media, LLC",Entertainment | ,"Sep 6, 2022",$0.0
+BET+,com.viacom.betplus,3.7,20.7K reviews,1M+,Teen,All apps,BET Networks,Entertainment | ,"Oct 12, 2022",$0.0
+"SLING: Live TV, Shows & Movies",com.sling,3.9,87K reviews,10M+,Teen,All apps,"Sling TV, L.L.C.",#9 top grossing entertainment | Entertainment | ,"Sep 26, 2022",$0.0
+FOX NOW: Watch TV & Sports,com.fox.now,3.6,84.2K reviews,10M+,Teen,All apps,Fox Broadcasting Company,Entertainment | ,"Sep 9, 2022",$0.0
+"SiriusXM: Music, Sports & News",com.sirius,4.7,728K reviews,10M+,Teen,All apps,Sirius XM Radio Inc,#3 top free music & audio | Music & Audio | ,"Sep 7, 2022",$0.0
+Spectrum TV,com.TWCableTV,4.6,183K reviews,10M+,Teen,All apps,Charter/Spectrum,Entertainment | ,"Oct 7, 2022",$0.0
+Google Earth,com.google.earth,4.3,2.89M reviews,100M+,Everyone,All apps,Google LLC,#6 top free travel & local | Travel & Local | ,"May 23, 2022",$0.0
+Navigation for Google Maps Go,com.google.android.apps.navlite,4.3,335K reviews,500M+,Everyone,All apps,Google LLC,Travel & Local | ,"Oct 14, 2021",$0.0
+Android Auto,com.google.android.projection.gearhead,4,3.14M reviews,1B+,Everyone,All apps,Google LLC,Auto & Vehicles | ,"Oct 10, 2022",$0.0
+Lime - #RideGreen,com.limebike,4.8,389K reviews,10M+,Everyone,All apps,"Neutron Holdings, Inc.",Travel & Local | ,"Oct 10, 2022",$0.0
+Google Maps Go,com.google.android.apps.mapslite,4.3,240K reviews,500M+,Everyone,All apps,Google LLC,Travel & Local | ,"Mar 21, 2022",$0.0
+Bird — Ride Electric,co.bird.android,4.7,169K reviews,10M+,Everyone,All apps,"Bird Rides, Inc.",Travel & Local | ,"Oct 10, 2022",$0.0
+Lyft,me.lyft.android,4,305K reviews,50M+,Everyone,All apps,"Lyft, Inc.",#2 top free maps & navigation | Maps & Navigation | ,"Oct 7, 2022",$0.0
+Sketchbook,com.adsk.sketchbook,3.8,567K reviews,100M+,Everyone,Art & Design,Sketchbook,#4 top free art & design | Art & Design | ,"Jun 9, 2022",$0.0
+FlipaClip: Create 2D Animation,com.vblast.flipaclip,4.4,585K reviews,10M+,Everyone,Art & Design,Visual Blasters LLC,#9 top free art & design | Art & Design | Play Pass | ,"Oct 14, 2022",$0.0
+PaperColor,com.eyewind.paperone,4.4,196K reviews,10M+,Everyone,Art & Design,Colorfit,Art & Design | ,"Oct 12, 2022",$0.0
+Photoleap AI Art by Lightricks,com.lightricks.photoleap,3.6,605 reviews,100K+,Everyone,Art & Design,Lightricks Ltd.,Art & Design | ,"Oct 14, 2022",$0.0
+"Drawing Desk: Draw, Paint Art",com.axis.drawingdesk.v3,4.3,96.9K reviews,10M+,Everyone,Art & Design,4Axis Technologies,#8 top free art & design | Art & Design | ,"Jun 13, 2022",$0.0
+Pixel Studio: pixel art editor,com.PixelStudio,4.7,45.2K reviews,1M+,Everyone,Art & Design,Hippo,Art & Design | ,"Sep 18, 2022",$0.0
+Easy Pose - 3D pose making app,com.madcat.easyposer,3.8,90.4K reviews,10M+,Teen,Art & Design,MadcatGames,Art & Design | ,"Jun 11, 2022",$0.0
+Adobe Express: Graphic Design,com.adobe.spark.post,4.6,132K reviews,10M+,Everyone,Art & Design,Adobe,#4 top grossing art & design | Art & Design | ,"Oct 6, 2022",$0.0
+3D Modeling App: Sculpt & Draw,com.inforcegames.app3dmodelling,,,1M+,Everyone,Art & Design,3D Modeling Apps,Art & Design | ,"Jul 6, 2022",$0.0
+Dream by WOMBO - AI Art Tool,com.womboai.wombodream,4.4,489K reviews,10M+,Everyone,Art & Design,Wombo Studios Inc,#5 top grossing art & design | Art & Design | ,"Oct 12, 2022",$0.0
+Magic Poser,com.magicposernew,4.3,52.2K reviews,5M+,Teen,Art & Design,"Wombat Studio, Inc.",Art & Design | ,"Mar 11, 2021",$0.0
+PENUP - Share your drawings,com.sec.penup,4.6,153K reviews,100M+,Teen,Art & Design,"Samsung Electronics Co.,  Ltd.",Art & Design | ,"Oct 4, 2022",$0.0
+Bazaart: Photo Editor & Design,me.bazaart.app,4.5,15.3K reviews,1M+,Everyone,Art & Design,Bazaart Ltd.,#10 top grossing art & design | Art & Design | ,"Oct 3, 2022",$0.0
+VistaCreate: Graphic Design,com.dephotos.crello,4.5,30.2K reviews,1M+,Teen,Art & Design,Crello Ltd.,Art & Design | ,"Oct 12, 2022",$0.0
+OpenSea: NFT marketplace,io.opensea,4,23.5K reviews,1M+,Teen,Art & Design,OpenSea,Art & Design | ,"Oct 7, 2022",$0.0
+"Drawing Desk: Draw, Paint Art",com.axis.drawingdesk.v3,4.3,96.9K reviews,10M+,Everyone,Art & Design,4Axis Technologies,#8 top free art & design | Art & Design | ,"Jun 13, 2022",$0.0
+Pixel Studio: pixel art editor,com.PixelStudio,4.7,45.2K reviews,1M+,Everyone,Art & Design,Hippo,Art & Design | ,"Sep 18, 2022",$0.0
+3D Modeling App: Sculpt & Draw,com.inforcegames.app3dmodelling,,,1M+,Everyone,Art & Design,3D Modeling Apps,Art & Design | ,"Jul 6, 2022",$0.0
+Dream by WOMBO - AI Art Tool,com.womboai.wombodream,4.4,489K reviews,10M+,Everyone,Art & Design,Wombo Studios Inc,#5 top grossing art & design | Art & Design | ,"Oct 12, 2022",$0.0
+Magic Poser,com.magicposernew,4.3,52.2K reviews,5M+,Teen,Art & Design,"Wombat Studio, Inc.",Art & Design | ,"Mar 11, 2021",$0.0
+PENUP - Share your drawings,com.sec.penup,4.6,153K reviews,100M+,Teen,Art & Design,"Samsung Electronics Co.,  Ltd.",Art & Design | ,"Oct 4, 2022",$0.0
+Bazaart: Photo Editor & Design,me.bazaart.app,4.5,15.3K reviews,1M+,Everyone,Art & Design,Bazaart Ltd.,#10 top grossing art & design | Art & Design | ,"Oct 3, 2022",$0.0
+VistaCreate: Graphic Design,com.dephotos.crello,4.5,30.2K reviews,1M+,Teen,Art & Design,Crello Ltd.,Art & Design | ,"Oct 12, 2022",$0.0
+OpenSea: NFT marketplace,io.opensea,4,23.5K reviews,1M+,Teen,Art & Design,OpenSea,Art & Design | ,"Oct 7, 2022",$0.0
+Android Auto,com.google.android.projection.gearhead,4,3.14M reviews,1B+,Everyone,Auto & Vehicles,Google LLC,Auto & Vehicles | ,"Oct 10, 2022",$0.0
+AutoMate - Car Dashboard: Driv,com.bitspice.automate,3.8,11.3K reviews,1M+,Everyone,Auto & Vehicles,BitSpice,Auto & Vehicles | ,"Feb 10, 2021",$0.0
+Autolist - Used Cars for Sale,com.autolist.autolist,4.4,28.1K reviews,1M+,Everyone,Auto & Vehicles,"Autolist, Inc.",Auto & Vehicles | ,"Sep 27, 2022",$0.0
+Edmunds - Shop Cars For Sale,com.edmunds,4.2,6.19K reviews,1M+,Everyone,Auto & Vehicles,Edmunds.com,Auto & Vehicles | ,"Sep 28, 2022",$0.0
+Autotrader - Shop Used Cars Fo,com.autotrader.android,2.8,29.6K reviews,1M+,Everyone,Auto & Vehicles,"Autotrader, Inc.",Auto & Vehicles | ,"Oct 6, 2022",$0.0
+RepairSolutions2,com.innova.rs2,4.3,7.38K reviews,100K+,Everyone,Auto & Vehicles,Innova Electronics Corporation,Auto & Vehicles | ,"Jul 15, 2022",$0.0
+FIXD - Vehicle Health Monitor,com.fixdapp.two,4.5,19.5K reviews,1M+,Everyone,Auto & Vehicles,FIXD,#1 top grossing auto & vehicles | Auto & Vehicles | ,"Oct 14, 2022",$0.0
+"eBay Motors: Parts, Cars, more",com.ebay.motorsapp,4.2,4.75K reviews,1M+,Everyone,Auto & Vehicles,eBay Mobile,Auto & Vehicles | ,"Oct 14, 2022",$0.0
+AutoZone - Auto Parts & Repair,com.autozone.mobile,4.6,59.2K reviews,5M+,Everyone,Auto & Vehicles,"AutoZone, Inc.",#7 top free auto & vehicles | Auto & Vehicles | ,"Aug 18, 2022",$0.0
+TrueCar Used Cars and New Cars,com.truecar.mobile.android.consumer,4.4,12K reviews,1M+,Everyone,Auto & Vehicles,"Truecar, Inc.",Auto & Vehicles | ,"Jul 1, 2022",$0.0
+DMV Practice Test Genie 2022,dto.ee.dmv.genius,4.7,32.4K reviews,1M+,Everyone,Auto & Vehicles,Elegant E-Learning,#4 top grossing auto & vehicles | Auto & Vehicles | ,"Oct 4, 2022",$0.0
+Advance Auto Parts,com.advanceauto.mobile.commerce.dist,4.7,20.5K reviews,1M+,Everyone,Auto & Vehicles,"Advance Auto Parts, Inc.",Auto & Vehicles | ,"Oct 10, 2022",$0.0
+Autotrader - Shop Used Cars Fo,com.autotrader.android,2.8,29.6K reviews,1M+,Everyone,Auto & Vehicles,"Autotrader, Inc.",Auto & Vehicles | ,"Oct 6, 2022",$0.0
+RepairSolutions2,com.innova.rs2,4.3,7.38K reviews,100K+,Everyone,Auto & Vehicles,Innova Electronics Corporation,Auto & Vehicles | ,"Jul 15, 2022",$0.0
+FIXD - Vehicle Health Monitor,com.fixdapp.two,4.5,19.5K reviews,1M+,Everyone,Auto & Vehicles,FIXD,#1 top grossing auto & vehicles | Auto & Vehicles | ,"Oct 14, 2022",$0.0
+"eBay Motors: Parts, Cars, more",com.ebay.motorsapp,4.2,4.75K reviews,1M+,Everyone,Auto & Vehicles,eBay Mobile,Auto & Vehicles | ,"Oct 14, 2022",$0.0
+AutoZone - Auto Parts & Repair,com.autozone.mobile,4.6,59.2K reviews,5M+,Everyone,Auto & Vehicles,"AutoZone, Inc.",#7 top free auto & vehicles | Auto & Vehicles | ,"Aug 18, 2022",$0.0
+TrueCar Used Cars and New Cars,com.truecar.mobile.android.consumer,4.4,12K reviews,1M+,Everyone,Auto & Vehicles,"Truecar, Inc.",Auto & Vehicles | ,"Jul 1, 2022",$0.0
+DMV Practice Test Genie 2022,dto.ee.dmv.genius,4.7,32.4K reviews,1M+,Everyone,Auto & Vehicles,Elegant E-Learning,#4 top grossing auto & vehicles | Auto & Vehicles | ,"Oct 4, 2022",$0.0
+Advance Auto Parts,com.advanceauto.mobile.commerce.dist,4.7,20.5K reviews,1M+,Everyone,Auto & Vehicles,"Advance Auto Parts, Inc.",Auto & Vehicles | ,"Oct 10, 2022",$0.0
+Hair Color Changer: Change you,haircolour.hairstyle.photoeditor.haircolorchanger,3.7,32.3K reviews,5M+,Everyone,Beauty,Face & Body Tune Photo Editor SRL,Beauty | ,"May 29, 2020",$0.0
+Mirror - Makeup and Shaving,kynguyen.app.mirror,4.6,45.3K reviews,5M+,Everyone,Beauty,simple_app,#10 top free beauty | Beauty | ,"Sep 12, 2022",$0.0
+SALLY BEAUTY,com.sallybeauty.shop,4.7,8.3K reviews,1M+,Everyone,Beauty,Sally Beauty Supply LLC.,#7 top free beauty | Beauty | ,"Sep 19, 2022",$0.0
+"IPSY: Makeup, Beauty, and Tips",com.ipsy.mobile.production,4.7,137K reviews,1M+,Everyone,Beauty,ipsy,#5 top free beauty | Beauty | ,"Jun 29, 2022",$0.0
+Ulta Beauty: Makeup & Skincare,com.ulta,4.5,125K reviews,5M+,Everyone,Beauty,ULTA,#3 top free beauty | Beauty | ,"Oct 13, 2022",$0.0
+Sephora: Buy Makeup & Skincare,com.sephora,4.7,75.4K reviews,5M+,Everyone,Beauty,"Sephora USA, Inc.",#2 top free beauty | Beauty | ,"Oct 6, 2022",$0.0
+StyleSeat: Book Hair & Beauty,com.styleseat.promobile,4.7,47.7K reviews,1M+,Everyone,Beauty,Styleseat,#9 top free beauty | Beauty | ,"Oct 14, 2022",$0.0
+Madison Reed App - Hair Color ,com.madisonreed,4.7,503 reviews,50K+,Everyone,Beauty,Madison Reed,Beauty | ,"Sep 27, 2022",$0.0
+GlossGenius,com.glossgenius.GlossGeniusSaaS,4.6,803 reviews,50K+,Everyone,Beauty,GlossGenius,Beauty | ,"Oct 5, 2022",$0.0
+FOREO For You,com.foreo.foreoapp,3.5,7.66K reviews,1M+,Everyone,Beauty,FOREO,Beauty | ,"Oct 13, 2022",$0.0
+Ulta Beauty: Makeup & Skincare,com.ulta,4.5,125K reviews,5M+,Everyone,Beauty,ULTA,#3 top free beauty | Beauty | ,"Oct 13, 2022",$0.0
+Sephora: Buy Makeup & Skincare,com.sephora,4.7,75.4K reviews,5M+,Everyone,Beauty,"Sephora USA, Inc.",#2 top free beauty | Beauty | ,"Oct 6, 2022",$0.0
+StyleSeat: Book Hair & Beauty,com.styleseat.promobile,4.7,47.7K reviews,1M+,Everyone,Beauty,Styleseat,#9 top free beauty | Beauty | ,"Oct 14, 2022",$0.0
+Madison Reed App - Hair Color ,com.madisonreed,4.7,503 reviews,50K+,Everyone,Beauty,Madison Reed,Beauty | ,"Sep 27, 2022",$0.0
+GlossGenius,com.glossgenius.GlossGeniusSaaS,4.6,803 reviews,50K+,Everyone,Beauty,GlossGenius,Beauty | ,"Oct 5, 2022",$0.0
+FOREO For You,com.foreo.foreoapp,3.5,7.66K reviews,1M+,Everyone,Beauty,FOREO,Beauty | ,"Oct 13, 2022",$0.0
+Wattpad - Read & Write Stories,wp.wattpad,4.2,4.63M reviews,100M+,Teen,Books & Reference,Wattpad.com,#9 top free books & reference | Books & Reference | ,"Oct 12, 2022",$0.0
+Google Play Books & Audiobooks,com.google.android.apps.books,4.1,1.93M reviews,1B+,Teen,Books & Reference,Google LLC,Books & Reference | ,"Oct 13, 2022",$0.0
+Wikipedia,org.wikipedia,4.5,681K reviews,50M+,Everyone,Books & Reference,Wikimedia Foundation,Books & Reference | ,"Oct 12, 2022",$0.0
+Sky Tonight - Star Gazer Guide,com.vitotechnology.sky.tonight.map.star.walk,4.6,9.76K reviews,500K+,Everyone,Books & Reference,Vito Technology,Books & Reference | ,"Oct 6, 2022",$0.0
+Barnes & Noble NOOK,bn.ereader,4.1,165K reviews,10M+,Teen,Books & Reference,Barnes & Noble,Books & Reference | ,"Sep 19, 2022",$0.0
+Amazon Kindle,com.amazon.kindle,4.6,2.73M reviews,100M+,Teen,Books & Reference,Amazon Mobile LLC,#7 top free books & reference | Books & Reference | ,"Oct 6, 2022",$0.0
+ReadEra – book reader pdf epub,org.readera,4.8,938K reviews,10M+,Everyone,Books & Reference,READERA LLC,Books & Reference | ,"Aug 23, 2022",$0.0
+Goodreads,com.goodreads,3.7,134K reviews,10M+,Teen,Books & Reference,Goodreads,Books & Reference | ,"Sep 14, 2022",$0.0
+Audiobooks.com: Books & More,com.audiobooks.androidapp,4.5,50.2K reviews,5M+,Teen,Books & Reference,Storytel Audiobooks USA LLC,Books & Reference | ,"Oct 7, 2022",$0.0
+Ancestry: Family History & DNA,com.ancestry.android.apps.ancestry,4.3,99.1K reviews,5M+,Everyone,Books & Reference,Ancestry.com,#5 top grossing books & reference | Books & Reference | ,"Oct 5, 2022",$0.0
+Scribd: Audiobooks & Ebooks,com.scribd.app.reader0,4.6,583K reviews,10M+,Teen,Books & Reference,"Scribd, Inc.",Books & Reference | ,"Oct 7, 2022",$0.0
+Yahoo Search,com.yahoo.mobile.client.android.search,4.3,43.7K reviews,5M+,Everyone,Books & Reference,Yahoo,Books & Reference | ,"Sep 27, 2022",$0.0
+Audible: audiobooks & podcasts,com.audible.application,4.6,1.4M reviews,100M+,Teen,Books & Reference,"Audible, Inc",#1 top grossing books & reference | Books & Reference | ,"Oct 10, 2022",$0.0
+TooFar Media,com.richshapero.tfma,3.9,7.07K reviews,1M+,Mature 17+,Books & Reference,TooFar Media,Books & Reference | ,"Oct 3, 2022",$0.0
+DeepL Translate,com.deepl.mobiletranslator,4.7,43.1K reviews,1M+,Everyone,Books & Reference,DeepL SE,Books & Reference | ,"Sep 20, 2022",$0.0
+MyHeritage: Family Tree & DNA,air.com.myheritage.mobile,4.3,214K reviews,10M+,Everyone,Books & Reference,MyHeritage.com,Books & Reference | ,"Sep 15, 2022",$0.0
+Moon+ Reader Pro,com.flyersoft.moonreaderp,4.4,103K reviews,1M+,Everyone,Books & Reference,Moon+,#5 top paid books & reference | Books & Reference | Play Pass | ,"Sep 22, 2022",$7.99
+Hanping Chinese Dictionary Pro,com.embermitre.hanping.app.pro,4.8,2.52K reviews,10K+,Teen,Books & Reference,Hanping,Books & Reference | ,"Oct 13, 2022",$4.99
+Dictionary - M-W Premium,com.merriamwebster.premium,3.8,9.65K reviews,100K+,Everyone,Books & Reference,Merriam-Webster Inc.,Books & Reference | ,"Sep 23, 2022",$7.99
+Dictionary.com Premium,com.dictionary.paid,4.6,32.6K reviews,100K+,Everyone,Books & Reference,"Dictionary.com, LLC",Books & Reference | ,"Sep 13, 2022",$3.99
+Nighty Night Forest,com.foxandsheep.nightynight3,4.6,305 reviews,10K+,Everyone,Books & Reference,Fox & Sheep,Books & Reference | Play Pass | ,"Nov 3, 2020",$4.49
+Barnes & Noble NOOK,bn.ereader,4.1,165K reviews,10M+,Teen,Books & Reference,Barnes & Noble,Books & Reference | ,"Sep 19, 2022",$0.0
+Amazon Kindle,com.amazon.kindle,4.6,2.73M reviews,100M+,Teen,Books & Reference,Amazon Mobile LLC,#7 top free books & reference | Books & Reference | ,"Oct 6, 2022",$0.0
+ReadEra – book reader pdf epub,org.readera,4.8,938K reviews,10M+,Everyone,Books & Reference,READERA LLC,Books & Reference | ,"Aug 23, 2022",$0.0
+Goodreads,com.goodreads,3.7,134K reviews,10M+,Teen,Books & Reference,Goodreads,Books & Reference | ,"Sep 14, 2022",$0.0
+Audiobooks.com: Books & More,com.audiobooks.androidapp,4.5,50.2K reviews,5M+,Teen,Books & Reference,Storytel Audiobooks USA LLC,Books & Reference | ,"Oct 7, 2022",$0.0
+Scribd: Audiobooks & Ebooks,com.scribd.app.reader0,4.6,583K reviews,10M+,Teen,Books & Reference,"Scribd, Inc.",Books & Reference | ,"Oct 7, 2022",$0.0
+Audible: audiobooks & podcasts,com.audible.application,4.6,1.4M reviews,100M+,Teen,Books & Reference,"Audible, Inc",#1 top grossing books & reference | Books & Reference | ,"Oct 10, 2022",$0.0
+TooFar Media,com.richshapero.tfma,3.9,7.07K reviews,1M+,Mature 17+,Books & Reference,TooFar Media,Books & Reference | ,"Oct 3, 2022",$0.0
+DeepL Translate,com.deepl.mobiletranslator,4.7,43.1K reviews,1M+,Everyone,Books & Reference,DeepL SE,Books & Reference | ,"Sep 20, 2022",$0.0
+MyHeritage: Family Tree & DNA,air.com.myheritage.mobile,4.3,214K reviews,10M+,Everyone,Books & Reference,MyHeritage.com,Books & Reference | ,"Sep 15, 2022",$0.0
+Steady - Earn Money,com.steady.steadyapp.com,4.2,37.8K reviews,1M+,Everyone,Business,"Steady Platform, Inc.",Business | ,"Oct 3, 2022",$0.0
+Google Chat,com.google.android.apps.dynamite,3.9,90.1K reviews,10M+,Everyone,Business,Google LLC,#4 top free business | Business | ,"Oct 12, 2022",$0.0
+Instawork: Find Local Gigs,com.instaworkmobile,4.5,17.4K reviews,1M+,Everyone,Business,Instawork,Business | ,"Oct 12, 2022",$0.0
+Google Ads,com.google.android.apps.adwords,4.3,139K reviews,10M+,Everyone,Business,Google LLC,Business | ,"Oct 12, 2022",$0.0
+Grubhub for Drivers,com.grubhub.driver,4.5,29.2K reviews,1M+,Everyone,Business,Grubhub,Business | ,"Oct 12, 2022",$0.0
+Indeed Job Search,com.indeed.android.jobsearch,4.7,3.54M reviews,100M+,Everyone,Business,Indeed Jobs,#3 top free business | Business | ,"Oct 12, 2022",$0.0
+Glassdoor - Jobs Search & More,com.glassdoor.app,4.4,213K reviews,10M+,Everyone,Business,Glassdoor Inc.,Business | ,"May 24, 2022",$0.0
+Square Point of Sale: Payment,com.squareup,4.8,158K reviews,10M+,Everyone,Business,"Square, Inc.",Business | ,"Oct 11, 2022",$0.0
+Amazon Relay,com.amazon.relay,3.9,17.9K reviews,500K+,Everyone,Business,Amazon Mobile LLC,Business | ,"Sep 27, 2022",$0.0
+FPL,com.nee.fpl,4.3,13.6K reviews,500K+,Everyone,Business,"NextEra Energy, Inc",Business | ,"Oct 13, 2022",$0.0
+DoorDash - Dasher,com.doordash.driverapp,2.6,137K reviews,10M+,Everyone,Business,DoorDash,#9 top free business | Business | ,"Oct 13, 2022",$0.0
+Motive Driver (ex KeepTruckin),com.keeptruckin.android,3.9,29.7K reviews,1M+,Everyone,Business,Motive Technologies Inc.,Business | ,"Oct 13, 2022",$0.0
+Lyft Driver,com.lyft.android.driver,3.9,114K reviews,5M+,Everyone,Business,"Lyft, Inc.",Business | ,"Oct 7, 2022",$0.0
+ADP Mobile Solutions,com.adpmobile.android,4.5,408K reviews,10M+,Everyone,Business,"ADP, INC.",#6 top free business | Business | ,"Oct 11, 2022",$0.0
+Grubhub for Drivers,com.grubhub.driver,4.5,29.2K reviews,1M+,Everyone,Business,Grubhub,Business | ,"Oct 12, 2022",$0.0
+Indeed Job Search,com.indeed.android.jobsearch,4.7,3.54M reviews,100M+,Everyone,Business,Indeed Jobs,#3 top free business | Business | ,"Oct 12, 2022",$0.0
+Glassdoor - Jobs Search & More,com.glassdoor.app,4.4,213K reviews,10M+,Everyone,Business,Glassdoor Inc.,Business | ,"May 24, 2022",$0.0
+Square Point of Sale: Payment,com.squareup,4.8,158K reviews,10M+,Everyone,Business,"Square, Inc.",Business | ,"Oct 11, 2022",$0.0
+Amazon Relay,com.amazon.relay,3.9,17.9K reviews,500K+,Everyone,Business,Amazon Mobile LLC,Business | ,"Sep 27, 2022",$0.0
+FPL,com.nee.fpl,4.3,13.6K reviews,500K+,Everyone,Business,"NextEra Energy, Inc",Business | ,"Oct 13, 2022",$0.0
+DoorDash - Dasher,com.doordash.driverapp,2.6,137K reviews,10M+,Everyone,Business,DoorDash,#9 top free business | Business | ,"Oct 13, 2022",$0.0
+Motive Driver (ex KeepTruckin),com.keeptruckin.android,3.9,29.7K reviews,1M+,Everyone,Business,Motive Technologies Inc.,Business | ,"Oct 13, 2022",$0.0
+Lyft Driver,com.lyft.android.driver,3.9,114K reviews,5M+,Everyone,Business,"Lyft, Inc.",Business | ,"Oct 7, 2022",$0.0
+ADP Mobile Solutions,com.adpmobile.android,4.5,408K reviews,10M+,Everyone,Business,"ADP, INC.",#6 top free business | Business | ,"Oct 11, 2022",$0.0
+WEBTOON,com.naver.linewebtoon,4.8,2.84M reviews,100M+,Teen,Comics,WEBTOON ENTERTAINMENT,#1 top free comics | Comics | ,"Oct 12, 2022",$0.0
+Draw Cartoons 2,com.zalivka.animation2,4.4,340K reviews,10M+,Everyone 10+,Comics,Zaliv Armenia,Comics | ,"Jun 28, 2022",$0.0
+BILIBILI COMICS - Manga Reader,com.bilibili.comic.intl,4.1,221K reviews,10M+,Teen,Comics,Bilibili Comics,#8 top free comics | Comics | ,"Sep 26, 2022",$0.0
+MangaToon - Manga Reader,mobi.mangatoon.comics.aphone,4.2,637K reviews,10M+,Teen,Comics,MangaToon,Comics | ,"Oct 4, 2022",$0.0
+MANGA Plus by SHUEISHA,jp.co.shueisha.mangaplus,4.3,57.5K reviews,5M+,Teen,Comics,株式会社 集英社,#7 top free comics | Comics | ,"Aug 31, 2022",$0.0
+Tapas – Comics and Novels,com.tapastic,4.3,98.9K reviews,5M+,Teen,Comics,Radish Media Inc.,#2 top grossing comics | Comics | ,"Oct 13, 2022",$0.0
+Manga UP!,com.square_enix.android_googleplay.mangaup_global,4.4,2.55K reviews,10K+,Mature 17+,Comics,"SQUARE ENIX Co.,Ltd.",Comics | ,"Oct 14, 2022",$0.0
+WebComics - Webtoon & Manga,com.webcomics.manga,4.2,213K reviews,5M+,Teen,Comics,WEBCOMICS HOLDINGS HK LIMITED,#8 top grossing comics | Comics | ,"Oct 11, 2022",$0.0
+CDisplayEx Comic Reader Lite,com.progdigy.cdisplay.free,4.3,10.1K reviews,500K+,Everyone,Comics,Progdigy Software,Comics | ,"Oct 5, 2022",$0.0
+KK Comics,com.kkcomic.northus.eng,4.6,299 reviews,10K+,Teen,Comics,High Energy Comics,#3 top free comics | Comics | ,"Sep 26, 2022",$0.0
+Marvel Unlimited,com.marvel.unlimited,4.7,62.8K reviews,5M+,Teen,Comics,Marvel Comics,#6 top grossing comics | Comics | ,"Oct 11, 2022",$0.0
+Tappytoon Comics & Novels,com.contentsfirst.tappytoon,4.2,39.9K reviews,1M+,Mature 17+,Comics,Contents First,#3 top grossing comics | Comics | ,"Oct 14, 2022",$0.0
+POCKET COMICS: Premium Webtoon,io.comico,4.3,26.2K reviews,1M+,Mature 17+,Comics,NHN comico Corporation,#5 top grossing comics | Comics | ,"Sep 15, 2022",$0.0
+Manta: Comics & Graphic Novels,net.manta.comic,4.6,35.1K reviews,1M+,Teen,Comics,RIDI Corporation,#4 top grossing comics | Comics | ,"Oct 5, 2022",$0.0
+Shonen Jump Manga & Comics,com.viz.wsj.android,4.8,24.3K reviews,1M+,Teen,Comics,Viz Media,#2 top free comics | Comics | ,"May 24, 2022",$0.0
+Toomics - Read Premium Comics,com.toomics.global.google,4.1,24.3K reviews,1M+,Teen,Comics,Toomics Global,Comics | ,"Jan 25, 2022",$0.0
+MANGA Plus by SHUEISHA,jp.co.shueisha.mangaplus,4.3,57.5K reviews,5M+,Teen,Comics,株式会社 集英社,#7 top free comics | Comics | ,"Aug 31, 2022",$0.0
+Tapas – Comics and Novels,com.tapastic,4.3,98.9K reviews,5M+,Teen,Comics,Radish Media Inc.,#2 top grossing comics | Comics | ,"Oct 13, 2022",$0.0
+Manga UP!,com.square_enix.android_googleplay.mangaup_global,4.4,2.55K reviews,10K+,Mature 17+,Comics,"SQUARE ENIX Co.,Ltd.",Comics | ,"Oct 14, 2022",$0.0
+WebComics - Webtoon & Manga,com.webcomics.manga,4.2,213K reviews,5M+,Teen,Comics,WEBCOMICS HOLDINGS HK LIMITED,#8 top grossing comics | Comics | ,"Oct 11, 2022",$0.0
+CDisplayEx Comic Reader Lite,com.progdigy.cdisplay.free,4.3,10.1K reviews,500K+,Everyone,Comics,Progdigy Software,Comics | ,"Oct 5, 2022",$0.0
+KK Comics,com.kkcomic.northus.eng,4.6,299 reviews,10K+,Teen,Comics,High Energy Comics,#3 top free comics | Comics | ,"Sep 26, 2022",$0.0
+Marvel Unlimited,com.marvel.unlimited,4.7,62.8K reviews,5M+,Teen,Comics,Marvel Comics,#6 top grossing comics | Comics | ,"Oct 11, 2022",$0.0
+Tappytoon Comics & Novels,com.contentsfirst.tappytoon,4.2,39.9K reviews,1M+,Mature 17+,Comics,Contents First,#3 top grossing comics | Comics | ,"Oct 14, 2022",$0.0
+POCKET COMICS: Premium Webtoon,io.comico,4.3,26.2K reviews,1M+,Mature 17+,Comics,NHN comico Corporation,#5 top grossing comics | Comics | ,"Sep 15, 2022",$0.0
+Manta: Comics & Graphic Novels,net.manta.comic,4.6,35.1K reviews,1M+,Teen,Comics,RIDI Corporation,#4 top grossing comics | Comics | ,"Oct 5, 2022",$0.0
+Shonen Jump Manga & Comics,com.viz.wsj.android,4.8,24.3K reviews,1M+,Teen,Comics,Viz Media,#2 top free comics | Comics | ,"May 24, 2022",$0.0
+Toomics - Read Premium Comics,com.toomics.global.google,4.1,24.3K reviews,1M+,Teen,Comics,Toomics Global,Comics | ,"Jan 25, 2022",$0.0
+MangaToon - Manga Reader,mobi.mangatoon.comics.aphone,4.2,637K reviews,10M+,Teen,Comics,MangaToon,Comics | ,"Oct 4, 2022",$0.0
+Gmail,com.google.android.gm,4.2,11.9M reviews,10B+,Everyone,Communication,Google LLC,Communication | ,"Oct 13, 2022",$0.0
+Google Chrome: Fast & Secure,com.android.chrome,4.1,40.8M reviews,10B+,Everyone,Communication,Google LLC,Communication | ,"Oct 13, 2022",$0.0
+Google Voice,com.google.android.apps.googlevoice,4.4,312K reviews,10M+,Everyone,Communication,Google LLC,Communication | ,"Oct 10, 2022",$0.0
+TextNow: Call + Text Unlimited,com.enflick.android.TextNow,4.4,1.17M reviews,50M+,Everyone,Communication,"TextNow, Inc.",#5 top free communication | Communication | ,"Oct 3, 2022",$0.0
+Messages,com.google.android.apps.messaging,4.2,8.69M reviews,1B+,Everyone,Communication,Google LLC,Communication | ,"Oct 13, 2022",$0.0
+2ndLine - Second Phone Number,com.enflick.android.tn2ndLine,4.1,130K reviews,10M+,Everyone,Communication,"TextNow, Inc.",Communication | ,"Oct 3, 2022",$0.0
+TextMe Up Calling & Texts,com.textmeinc.textme3,4.3,88.1K reviews,5M+,Everyone,Communication,"TextMe, Inc.",Communication | ,"Aug 13, 2022",$0.0
+Signal Private Messenger,org.thoughtcrime.securesms,4.5,2.14M reviews,100M+,Everyone,Communication,Signal Foundation,Communication | ,"Oct 11, 2022",$0.0
+Google Meet,com.google.android.apps.tachyon,4.6,9.63M reviews,5B+,Everyone,Communication,Google LLC,Communication | ,"Oct 12, 2022",$0.0
+Skype,com.skype.raider,4.1,11.5M reviews,1B+,Everyone,Communication,Skype,#6 top grossing communication | Communication | ,"Oct 6, 2022",$0.0
+Kik — Messaging & Chat App,kik.android,4.1,2.52M reviews,100M+,Teen,Communication,MediaLab AI - Kik,#2 top grossing communication | Communication | ,"Oct 3, 2022",$0.0
+Yahoo Mail – Organized Email,com.yahoo.mobile.client.android.mail,4.5,6.45M reviews,100M+,Everyone,Communication,Yahoo,Communication | ,"Sep 15, 2022",$0.0
+Firefox Focus: No Fuss Browser,org.mozilla.focus,4.7,114K reviews,10M+,Everyone,Communication,Mozilla,Communication | ,"Oct 11, 2022",$0.0
+Orbot: Tor for Android,org.torproject.android,4.1,191K reviews,10M+,Everyone,Communication,The Tor Project,Communication | ,"Aug 1, 2022",$0.0
+Burner: 2nd Phone Number Line,com.adhoclabs.burner,4.3,48.7K reviews,1M+,Everyone,Communication,"Ad Hoc Labs, Inc",#4 top grossing communication | Communication | ,"May 11, 2022",$0.0
+Messages,com.google.android.apps.messaging,4.2,8.69M reviews,1B+,Everyone,Communication,Google LLC,Communication | ,"Oct 13, 2022",$0.0
+2ndLine - Second Phone Number,com.enflick.android.tn2ndLine,4.1,130K reviews,10M+,Everyone,Communication,"TextNow, Inc.",Communication | ,"Oct 3, 2022",$0.0
+TextMe Up Calling & Texts,com.textmeinc.textme3,4.3,88.1K reviews,5M+,Everyone,Communication,"TextMe, Inc.",Communication | ,"Aug 13, 2022",$0.0
+Signal Private Messenger,org.thoughtcrime.securesms,4.5,2.14M reviews,100M+,Everyone,Communication,Signal Foundation,Communication | ,"Oct 11, 2022",$0.0
+Google Meet,com.google.android.apps.tachyon,4.6,9.63M reviews,5B+,Everyone,Communication,Google LLC,Communication | ,"Oct 12, 2022",$0.0
+Skype,com.skype.raider,4.1,11.5M reviews,1B+,Everyone,Communication,Skype,#6 top grossing communication | Communication | ,"Oct 6, 2022",$0.0
+Kik — Messaging & Chat App,kik.android,4.1,2.52M reviews,100M+,Teen,Communication,MediaLab AI - Kik,#2 top grossing communication | Communication | ,"Oct 3, 2022",$0.0
+Yahoo Mail – Organized Email,com.yahoo.mobile.client.android.mail,4.5,6.45M reviews,100M+,Everyone,Communication,Yahoo,Communication | ,"Sep 15, 2022",$0.0
+Firefox Focus: No Fuss Browser,org.mozilla.focus,4.7,114K reviews,10M+,Everyone,Communication,Mozilla,Communication | ,"Oct 11, 2022",$0.0
+Orbot: Tor for Android,org.torproject.android,4.1,191K reviews,10M+,Everyone,Communication,The Tor Project,Communication | ,"Aug 1, 2022",$0.0
+Burner: 2nd Phone Number Line,com.adhoclabs.burner,4.3,48.7K reviews,1M+,Everyone,Communication,"Ad Hoc Labs, Inc",#4 top grossing communication | Communication | ,"May 11, 2022",$0.0
+Khan Academy Kids,org.khankids.android,4.7,36.6K reviews,1M+,Everyone,Education,Khan Academy,Education | ,"Sep 27, 2022",$0.0
+Learn to Read - Duolingo ABC,com.duolingo.literacy,4.4,424 reviews,100K+,Everyone,Education,Duolingo,Education | ,"Oct 10, 2022",$0.0
+PBS KIDS Video,org.pbskids.video,4.4,47.3K reviews,10M+,Everyone,Education,PBS KIDS,Education | ,"Oct 3, 2022",$0.0
+Khan Academy,org.khanacademy.android,4.3,158K reviews,10M+,Everyone,Education,Khan Academy,Education | ,"Sep 20, 2022",$0.0
+Epic: Kids' Books & Reading,com.getepic.Epic,4.4,85.8K reviews,5M+,Everyone,Education,Epic! Creations Inc,#8 top grossing education | Education | ,"Oct 7, 2022",$0.0
+Sago Mini World: Kids Games,com.sagosago.World.googleplay,4.1,32.4K reviews,5M+,Everyone,Education,Sago Mini,Education | ,"Oct 6, 2022",$0.0
+Starfall.com,air.com.starfall.more,4.1,24.9K reviews,5M+,Everyone,Education,Starfall Education Foundation,Education | ,"Jun 24, 2022",$0.0
+Sago Mini School (Kids 2-5),com.sagosago.School.googleplay,4.1,3.2K reviews,1M+,Everyone,Education,Sago Mini,Education | Play Pass | ,"Aug 18, 2022",$0.0
+HelloTalk - Learn Languages,com.hellotalk,4.9,204K reviews,10M+,Teen,Education,HelloTalk Learn Languages App,Education | ,"Oct 14, 2022",$0.0
+"Rosetta Stone: Learn, Practice",air.com.rosettastone.mobile.CoursePlayer,4.7,345K reviews,10M+,Everyone,Education,Rosetta Stone Ltd,#10 top grossing education | Education | ,"Jul 21, 2022",$0.0
+Noggin Preschool Learning App,com.nick.noggin,3.6,9.94K reviews,5M+,Everyone,Education,Nickelodeon,#5 top grossing education | Education | ,"Sep 28, 2022",$0.0
+ABCmouse.com,mobi.abcmouse.academy_goo,3.9,90.6K reviews,10M+,Everyone,Education,"Age of Learning, Inc.",#6 top free education | Education | ,"Oct 12, 2022",$0.0
+Learn Languages with Pimsleur,com.simonandschuster.pimsleur.unified.android,4.5,7.32K reviews,1M+,Everyone,Education,Simon & Schuster,Education | ,"Sep 16, 2022",$0.0
+IXL,com.ixl.ixlmath,2.8,21.6K reviews,1M+,Everyone,Education,IXL Learning,Education | ,"Oct 14, 2022",$0.0
+Adventure Academy,com.aofl.adventureacademy,4.3,25.3K reviews,1M+,Everyone,Education,"Age of Learning, Inc.",Education | ,"Sep 28, 2022",$0.0
+Tandem: Language exchange,net.tandem,4.3,285K reviews,10M+,Everyone,Education,Tripod Technology GmbH,Education | ,"Oct 10, 2022",$0.0
+Busuu: Learn Languages,com.busuu.android.enc,4.5,508K reviews,10M+,Everyone,Education,Busuu,Education | ,"Oct 4, 2022",$0.0
+Udemy - Online Courses,com.udemy.android,4.4,381K reviews,10M+,Everyone,Education,Udemy,#6 top grossing education | Education | ,"Sep 30, 2022",$0.0
+Babbel - Learn Languages,com.babbel.mobile.android.en,4.6,785K reviews,10M+,Everyone,Education,Babbel,#3 top grossing education | Education | ,"Oct 12, 2022",$0.0
+HamStudy.org,org.hamstudy.mobile,4.8,324 reviews,10K+,Everyone,Education,Signal Stuff,Education | ,"Jul 2, 2020",$3.99
+Toca Life: Hospital,com.tocaboca.tocahospital,4.1,7.31K reviews,500K+,Everyone,Education,Toca Boca,#2 top paid education | Education | ,"Oct 13, 2022",$3.99
+Sago Mini Vacation,com.sagosago.Vacation.googleplay,4.5,58 reviews,5K+,Everyone,Education,Sago Mini,Education | ,"Dec 11, 2019",$3.99
+Toca Life: Pets,com.tocaboca.tocapets,3.8,2.9K reviews,100K+,Everyone,Education,Toca Boca,Education | ,"Oct 13, 2022",$3.99
+Toca Pet Doctor,com.tocaboca.tocapetdoctor,3.8,1.66K reviews,100K+,Everyone,Education,Toca Boca,#3 top paid education | Education | ,"Jun 10, 2022",$3.99
+SkyView® Explore the Universe,com.t11.skyview,4.3,5.55K reviews,100K+,Everyone,Education,Terminal Eleven,#1 top paid education | Education | ,"Aug 25, 2022",$1.99
+Star Walk 2 - Night Sky View,com.vitotechnology.StarWalk2,4.6,24.3K reviews,500K+,Everyone,Education,Vito Technology,#6 top paid education | Education | Play Pass | ,"Sep 7, 2022",$2.99
+What's in Space?,com.learnyland.space,4.2,33 reviews,10K+,Everyone,Education,Learny Land,Education | Play Pass | ,"Jul 20, 2022",$2.99
+Toca Life: After School,com.tocaboca.tocaafterschool,4.2,1.96K reviews,100K+,Everyone,Education,Toca Boca,Education | ,"Oct 13, 2022",$3.99
+Toca Life: Office,com.tocaboca.tocaoffice,4.1,4.34K reviews,100K+,Everyone,Education,Toca Boca,Education | ,"Oct 13, 2022",$3.99
+Toca Lab: Elements,com.tocaboca.tocalab,4,21.5K reviews,500K+,Everyone,Education,Toca Boca,#9 top paid education | Education | ,"Jun 10, 2022",$3.99
+Toca Builders,com.tocaboca.tocabuild,4,3.6K reviews,100K+,Everyone,Education,Toca Boca,Education | ,"Jun 15, 2022",$3.99
+Toca Life: Vacation,com.tocaboca.tocavacation,4,8.75K reviews,100K+,Everyone 10+,Education,Toca Boca,#7 top paid education | Education | ,"Oct 13, 2022",$3.99
+Mr. Potato Head: School Rush,com.playdatedigital.potatohead,3.8,68 reviews,10K+,Everyone,Education,PlayDate Digital Inc.,Education | Play Pass | ,"Apr 15, 2022",$3.99
+Toca Life: Neighborhood,com.tocaboca.tocaneighborhood,3.8,4.25K reviews,100K+,Everyone,Education,Toca Boca,#4 top paid education | Education | ,"Oct 13, 2022",$3.99
+Toca Life: City,com.tocaboca.tocacity,4.1,32.5K reviews,500K+,Everyone,Education,Toca Boca,Education | ,"Jun 27, 2022",$3.99
+Toca Mini,com.tocaboca.tocamini,3.8,2.61K reviews,100K+,Everyone,Education,Toca Boca,Education | Play Pass | ,"Jul 13, 2022",$3.99
+The Bugs I: Insects?,com.learnyland.bugsOne,3.4,26 reviews,5K+,Everyone,Education,Learny Land,Education | Play Pass | ,"Jul 19, 2022",$2.99
+BabyBus TV:Kids Videos & Games,com.babybus.overseas.superjojo,3.9,2.99K reviews,1M+,Everyone,Education,BabyBus,Education | ,"Sep 27, 2022",$0.0
+핑크퐁 TV : 아기상어 유아 동요 동화,kr.co.smartstudy.pinkfongtv.ko_android_googlemarket,4,3.6K reviews,1M+,Everyone,Education,The Pinkfong Company,Education | ,"Sep 28, 2022",$0.0
+Baby Shark TV: Songs & Stories,kr.co.smartstudy.pinkfongtv_android_googlemarket,3.9,9.47K reviews,5M+,Everyone,Education,The Pinkfong Company,Education | ,"May 20, 2021",$0.0
+MagellanTV Documentaries,com.abide.magellantv,4.2,1.95K reviews,100K+,Everyone 10+,Education,MagellanTV Documentaries,Education | ,"Oct 6, 2022",$0.0
+Curiosity Stream (TV),com.curiosity.curiositystream.androidtv,3.4,88 reviews,100K+,Everyone,Education,CuriosityStream Inc.,Education | ,"Oct 7, 2022",$0.0
+BabyTV - pre school toddler TV,com.applicaster.babytv.vod,3.7,11.5K reviews,1M+,Everyone,Education,BabyTV,Education | ,"May 12, 2021",$0.0
+"토모키즈 - EBS 한글이야호2, 유아학습, 키즈영상",com.uangel.tomo2,3.7,3.72K reviews,500K+,Everyone,Education,UANGEL,Education | ,"Mar 23, 2021",$0.0
+Epic: Kids' Books & Reading,com.getepic.Epic,4.4,85.8K reviews,5M+,Everyone,Education,Epic! Creations Inc,#8 top grossing education | Education | ,"Oct 7, 2022",$0.0
+Starfall.com,air.com.starfall.more,4.1,24.9K reviews,5M+,Everyone,Education,Starfall Education Foundation,Education | ,"Jun 24, 2022",$0.0
+Sago Mini School (Kids 2-5),com.sagosago.School.googleplay,4.1,3.2K reviews,1M+,Everyone,Education,Sago Mini,Education | Play Pass | ,"Aug 18, 2022",$0.0
+HelloTalk - Learn Languages,com.hellotalk,4.9,204K reviews,10M+,Teen,Education,HelloTalk Learn Languages App,Education | ,"Oct 14, 2022",$0.0
+"Rosetta Stone: Learn, Practice",air.com.rosettastone.mobile.CoursePlayer,4.7,345K reviews,10M+,Everyone,Education,Rosetta Stone Ltd,#10 top grossing education | Education | ,"Jul 21, 2022",$0.0
+Noggin Preschool Learning App,com.nick.noggin,3.6,9.94K reviews,5M+,Everyone,Education,Nickelodeon,#5 top grossing education | Education | ,"Sep 28, 2022",$0.0
+ABCmouse.com,mobi.abcmouse.academy_goo,3.9,90.6K reviews,10M+,Everyone,Education,"Age of Learning, Inc.",#6 top free education | Education | ,"Oct 12, 2022",$0.0
+Learn Languages with Pimsleur,com.simonandschuster.pimsleur.unified.android,4.5,7.32K reviews,1M+,Everyone,Education,Simon & Schuster,Education | ,"Sep 16, 2022",$0.0
+IXL,com.ixl.ixlmath,2.8,21.6K reviews,1M+,Everyone,Education,IXL Learning,Education | ,"Oct 14, 2022",$0.0
+Tandem: Language exchange,net.tandem,4.3,285K reviews,10M+,Everyone,Education,Tripod Technology GmbH,Education | ,"Oct 10, 2022",$0.0
+Busuu: Learn Languages,com.busuu.android.enc,4.5,508K reviews,10M+,Everyone,Education,Busuu,Education | ,"Oct 4, 2022",$0.0
+Udemy - Online Courses,com.udemy.android,4.4,381K reviews,10M+,Everyone,Education,Udemy,#6 top grossing education | Education | ,"Sep 30, 2022",$0.0
+Babbel - Learn Languages,com.babbel.mobile.android.en,4.6,785K reviews,10M+,Everyone,Education,Babbel,#3 top grossing education | Education | ,"Oct 12, 2022",$0.0
+Tubi - Movies & TV Shows,com.tubitv,4.8,1.63M reviews,100M+,Teen,Entertainment,Tubi TV,#4 top free entertainment | Entertainment | ,"Oct 10, 2022",$0.0
+Hulu for Android TV,com.hulu.livingroomplus,1.6,298 reviews,10M+,Teen,Entertainment,Disney,Entertainment | ,"Jul 21, 2022",$0.0
+YouTube Kids,com.google.android.apps.youtube.kids,4.4,2.23M reviews,100M+,Everyone,Entertainment,Google LLC,Entertainment | ,"Oct 3, 2022",$0.0
+Disney+,com.disney.disneyplus,4.5,2.23M reviews,100M+,Teen,Entertainment,Disney,#2 top grossing entertainment | Entertainment | ,"Oct 4, 2022",$0.0
+Amazon Freevee,com.amazon.imdb.tv.mobile.app,4,3.63K reviews,5M+,Teen,Entertainment,Amazon Mobile LLC,Entertainment | ,"Aug 8, 2022",$0.0
+YouTube TV: Live TV & more,com.google.android.apps.youtube.unplugged,4.2,114K reviews,10M+,Teen,Entertainment,Google LLC,#9 top free entertainment | Entertainment | ,"Oct 3, 2022",$0.0
+FOX NOW: Watch TV & Sports,com.fox.now,3.6,84.2K reviews,10M+,Teen,Entertainment,Fox Broadcasting Company,Entertainment | ,"Sep 9, 2022",$0.0
+Paramount+ | Peak Streaming,com.cbs.ott,1.2,201 reviews,5M+,Teen,Entertainment,"CBS Interactive, Inc.",Entertainment | ,"Sep 29, 2022",$0.0
+Paramount+ | Peak Streaming,com.cbs.app,3.9,274K reviews,10M+,Teen,Entertainment,"CBS Interactive, Inc.",#5 top grossing entertainment | Entertainment | ,"Sep 29, 2022",$0.0
+The NBC App - Stream TV Shows,com.nbcuni.nbc,4.1,128K reviews,10M+,Teen,Entertainment,"NBCUniversal Media, LLC",Entertainment | ,"Sep 6, 2022",$0.0
+CA Lottery Official App,gov.ca.lot.caLotteryApp,4.2,23.2K reviews,1M+,Everyone,Entertainment,CA Lottery,Entertainment | ,"Jun 23, 2022",$0.0
+STARZ,com.bydeluxe.d3.android.program.starz,4.6,161K reviews,10M+,Teen,Entertainment,"Starz Entertainment, LLC",#10 top grossing entertainment | Entertainment | ,"Oct 3, 2022",$0.0
+Spectrum TV,com.TWCableTV,4.6,183K reviews,10M+,Teen,Entertainment,Charter/Spectrum,Entertainment | ,"Oct 7, 2022",$0.0
+"SLING: Live TV, Shows & Movies",com.sling,3.9,87K reviews,10M+,Teen,Entertainment,"Sling TV, L.L.C.",#9 top grossing entertainment | Entertainment | ,"Sep 26, 2022",$0.0
+SHOWTIME,com.showtime.standalone,3.4,24.9K reviews,5M+,Teen,Entertainment,Showtime Digital Inc.,Entertainment | ,"Oct 11, 2022",$0.0
+CBS,com.cbs.tve,4.1,14K reviews,1M+,Teen,Entertainment,"CBS Interactive, Inc.",Entertainment | ,"Sep 29, 2022",$0.0
+BET+,com.viacom.betplus,3.7,20.7K reviews,1M+,Teen,Entertainment,BET Networks,Entertainment | ,"Oct 12, 2022",$0.0
+Amazon Freevee,com.amazon.imdb.tv.mobile.app,4,3.63K reviews,5M+,Teen,Entertainment,Amazon Mobile LLC,Entertainment | ,"Aug 8, 2022",$0.0
+YouTube TV: Live TV & more,com.google.android.apps.youtube.unplugged,4.2,114K reviews,10M+,Teen,Entertainment,Google LLC,#9 top free entertainment | Entertainment | ,"Oct 3, 2022",$0.0
+FOX NOW: Watch TV & Sports,com.fox.now,3.6,84.2K reviews,10M+,Teen,Entertainment,Fox Broadcasting Company,Entertainment | ,"Sep 9, 2022",$0.0
+Paramount+ | Peak Streaming,com.cbs.ott,1.2,201 reviews,5M+,Teen,Entertainment,"CBS Interactive, Inc.",Entertainment | ,"Sep 29, 2022",$0.0
+Paramount+ | Peak Streaming,com.cbs.app,3.9,274K reviews,10M+,Teen,Entertainment,"CBS Interactive, Inc.",#5 top grossing entertainment | Entertainment | ,"Sep 29, 2022",$0.0
+The NBC App - Stream TV Shows,com.nbcuni.nbc,4.1,128K reviews,10M+,Teen,Entertainment,"NBCUniversal Media, LLC",Entertainment | ,"Sep 6, 2022",$0.0
+CA Lottery Official App,gov.ca.lot.caLotteryApp,4.2,23.2K reviews,1M+,Everyone,Entertainment,CA Lottery,Entertainment | ,"Jun 23, 2022",$0.0
+STARZ,com.bydeluxe.d3.android.program.starz,4.6,161K reviews,10M+,Teen,Entertainment,"Starz Entertainment, LLC",#10 top grossing entertainment | Entertainment | ,"Oct 3, 2022",$0.0
+Spectrum TV,com.TWCableTV,4.6,183K reviews,10M+,Teen,Entertainment,Charter/Spectrum,Entertainment | ,"Oct 7, 2022",$0.0
+"SLING: Live TV, Shows & Movies",com.sling,3.9,87K reviews,10M+,Teen,Entertainment,"Sling TV, L.L.C.",#9 top grossing entertainment | Entertainment | ,"Sep 26, 2022",$0.0
+SHOWTIME,com.showtime.standalone,3.4,24.9K reviews,5M+,Teen,Entertainment,Showtime Digital Inc.,Entertainment | ,"Oct 11, 2022",$0.0
+CBS,com.cbs.tve,4.1,14K reviews,1M+,Teen,Entertainment,"CBS Interactive, Inc.",Entertainment | ,"Sep 29, 2022",$0.0
+BET+,com.viacom.betplus,3.7,20.7K reviews,1M+,Teen,Entertainment,BET Networks,Entertainment | ,"Oct 12, 2022",$0.0
+STARZ,com.bydeluxe.d3.android.program.starz,4.6,161K reviews,10M+,Teen,Entertainment,"Starz Entertainment, LLC",#10 top grossing entertainment | Entertainment | ,"Oct 3, 2022",$0.0
+Spectrum TV,com.TWCableTV,4.6,183K reviews,10M+,Teen,Entertainment,Charter/Spectrum,Entertainment | ,"Oct 7, 2022",$0.0
+"SLING: Live TV, Shows & Movies",com.sling,3.9,87K reviews,10M+,Teen,Entertainment,"Sling TV, L.L.C.",#9 top grossing entertainment | Entertainment | ,"Sep 26, 2022",$0.0
+SHOWTIME,com.showtime.standalone,3.4,24.9K reviews,5M+,Teen,Entertainment,Showtime Digital Inc.,Entertainment | ,"Oct 11, 2022",$0.0
+BET+,com.viacom.betplus,3.7,20.7K reviews,1M+,Teen,Entertainment,BET Networks,Entertainment | ,"Oct 12, 2022",$0.0
+Scanner Radio Pro: Police/Fire,com.scannerradio_pro,4.6,24.8K reviews,500K+,Everyone,Entertainment,GordonEdwards.net LLC,#2 top paid entertainment | Entertainment | ,"Sep 18, 2022",$2.99
+Magic Fluids,com.magicfluids,4.9,8.02K reviews,100K+,Everyone,Entertainment,Mad Scientist,#3 top paid entertainment | Entertainment | ,"Sep 29, 2022",$4.99
+Akinator VIP,com.digidust.elokence.akinator.paid,4.4,41.3K reviews,1M+,Teen,Entertainment,Elokence SAS,Entertainment | ,"Jul 20, 2022",$3.99
+Ombi,com.tidusjar.Ombi,4.8,1.25K reviews,10K+,Everyone,Entertainment,TidusJar,Entertainment | ,"Jun 8, 2022",$2.99
+Pony Style Box,com.redrabbitanimation.PonyStyleBox,4.8,134 reviews,5K+,Everyone,Entertainment,Fox & Sheep,Entertainment | ,"Aug 10, 2021",$4.49
+Little Fox Train Adventures,com.foxandsheep.train,,,1K+,Everyone,Entertainment,Fox & Sheep,Entertainment | ,"Jul 16, 2021",$4.49
+All Events in City - Discover ,com.amitech.allevents,4.1,5.51K reviews,500K+,Everyone,Events,Amitech Business Solutions,Events | ,"Dec 27, 2019",$0.0
+"Ticketmaster－Buy, Sell Tickets",com.ticketmaster.mobile.android.na,3.6,112K reviews,10M+,Everyone,Events,Ticketmaster L.L.C.,#1 top free events | Events | ,"Aug 19, 2022",$0.0
+StubHub - Live Event Tickets,com.stubhub,3.8,75.1K reviews,5M+,Everyone,Events,stubhubmobile,#5 top free events | Events | ,"Jun 30, 2022",$0.0
+"TicketSwap - Buy, Sell Tickets",com.ticketswap.ticketswap,4.7,28.8K reviews,1M+,Everyone,Events,TicketSwap,Events | ,"Oct 5, 2022",$0.0
+"Discotech: VIP Bottle Service,",me.discotech,4.9,1.42K reviews,100K+,Everyone,Events,"Discotech, Inc.",Events | ,"Aug 12, 2021",$0.0
+"SeatGeek – Tickets to Sports, ",com.seatgeek.android,3.7,24.8K reviews,5M+,Everyone,Events,SeatGeek,#4 top free events | Events | ,"Oct 3, 2022",$0.0
+Main Event,com.mainevent.app,2.9,141 reviews,50K+,Everyone,Events,Main Event Entertainment,Events | ,"Oct 6, 2022",$0.0
+HomeTown Fan,com.hometownticketing.tix.androidapp,4.5,2.51K reviews,100K+,Everyone,Events,"HomeTown Ticketing, Inc.",#8 top free events | Events | ,"Oct 4, 2022",$0.0
+Vivid Seats | Event Tickets,com.vividseats.android,3.9,19.7K reviews,1M+,Everyone,Events,Vivid Seats LLC,#6 top free events | Events | ,"Sep 29, 2022",$0.0
+Gametime - Last Minute Tickets,com.gametime.gametime,4.7,39.3K reviews,1M+,Everyone,Events,Gametime,#2 top free events | Events | ,"Oct 7, 2022",$0.0
+"Discotech: VIP Bottle Service,",me.discotech,4.9,1.42K reviews,100K+,Everyone,Events,"Discotech, Inc.",Events | ,"Aug 12, 2021",$0.0
+"SeatGeek – Tickets to Sports, ",com.seatgeek.android,3.7,24.8K reviews,5M+,Everyone,Events,SeatGeek,#4 top free events | Events | ,"Oct 3, 2022",$0.0
+Main Event,com.mainevent.app,2.9,141 reviews,50K+,Everyone,Events,Main Event Entertainment,Events | ,"Oct 6, 2022",$0.0
+HomeTown Fan,com.hometownticketing.tix.androidapp,4.5,2.51K reviews,100K+,Everyone,Events,"HomeTown Ticketing, Inc.",#8 top free events | Events | ,"Oct 4, 2022",$0.0
+Vivid Seats | Event Tickets,com.vividseats.android,3.9,19.7K reviews,1M+,Everyone,Events,Vivid Seats LLC,#6 top free events | Events | ,"Sep 29, 2022",$0.0
+Gametime - Last Minute Tickets,com.gametime.gametime,4.7,39.3K reviews,1M+,Everyone,Events,Gametime,#2 top free events | Events | ,"Oct 7, 2022",$0.0
+"TicketSwap - Buy, Sell Tickets",com.ticketswap.ticketswap,4.7,28.8K reviews,1M+,Everyone,Events,TicketSwap,Events | ,"Oct 5, 2022",$0.0
+Venmo,com.venmo,4.1,639K reviews,10M+,Everyone,Finance,"PayPal, Inc.",#3 top free finance | Finance | ,"Oct 5, 2022",$0.0
+Empower: Instant Cash Advance.,finance.empower,4.7,51.6K reviews,1M+,Everyone,Finance,Empower Finance,Finance | ,"Oct 12, 2022",$0.0
+Western Union Money Transfer,com.westernunion.android.mtapp,4.5,251K reviews,10M+,Everyone,Finance,Western Union Android Apps,Finance | ,"Oct 14, 2022",$0.0
+Google Wallet,com.google.android.apps.walletnfcrel,4,1.31M reviews,500M+,Everyone,Finance,Google LLC,#4 top free finance | Finance | ,"Oct 12, 2022",$0.0
+Brigit: Borrow & Build Credit,com.hellobrigit.Brigit,4.6,89.8K reviews,1M+,Everyone,Finance,Brigit,Finance | ,"Oct 10, 2022",$0.0
+Chase Mobile,com.chase.sig.android,4.4,1.78M reviews,10M+,Everyone,Finance,JPMorgan Chase,Finance | ,"Oct 6, 2022",$0.0
+Robinhood: Stocks & Crypto,com.robinhood.android,3.9,461K reviews,10M+,Everyone,Finance,Robinhood,Finance | ,"Oct 13, 2022",$0.0
+Root: Better car insurance,com.joinroot.root,3.5,36.2K reviews,1M+,Everyone,Finance,"Root, Inc",Finance | ,"Oct 14, 2022",$0.0
+Experian,com.experian.android,4.7,423K reviews,10M+,Everyone,Finance,Experian,Finance | ,"Oct 10, 2022",$0.0
+Even,com.even.harmony,4.8,50.6K reviews,1M+,Everyone,Finance,Even Responsible Finance,Finance | ,"Oct 13, 2022",$0.0
+Brigit: Borrow & Build Credit,com.hellobrigit.Brigit,4.6,89.8K reviews,1M+,Everyone,Finance,Brigit,Finance | ,"Oct 10, 2022",$0.0
+Chase Mobile,com.chase.sig.android,4.4,1.78M reviews,10M+,Everyone,Finance,JPMorgan Chase,Finance | ,"Oct 6, 2022",$0.0
+Robinhood: Stocks & Crypto,com.robinhood.android,3.9,461K reviews,10M+,Everyone,Finance,Robinhood,Finance | ,"Oct 13, 2022",$0.0
+Root: Better car insurance,com.joinroot.root,3.5,36.2K reviews,1M+,Everyone,Finance,"Root, Inc",Finance | ,"Oct 14, 2022",$0.0
+Experian,com.experian.android,4.7,423K reviews,10M+,Everyone,Finance,Experian,Finance | ,"Oct 10, 2022",$0.0
+Even,com.even.harmony,4.8,50.6K reviews,1M+,Everyone,Finance,Even Responsible Finance,Finance | ,"Oct 13, 2022",$0.0
+Domino's Pizza USA,com.dominospizza,4.7,1.88M reviews,10M+,Everyone,Food & Drink,Domino's Pizza LLC,Food & Drink | ,"Oct 7, 2022",$0.0
+McDonald's,com.mcdonalds.app,4.6,988K reviews,10M+,Everyone,Food & Drink,"McDonalds USA, LLC",#1 top free food & drink | Food & Drink | ,"Sep 22, 2022",$0.0
+Krispy Kreme,com.krispykreme.HotLights,3.8,12.1K reviews,1M+,Everyone,Food & Drink,Krispy Kreme,Food & Drink | ,"Sep 29, 2022",$0.0
+Bojangles,org.pleinair.bojanglesmobile,4.5,3.92K reviews,100K+,Everyone,Food & Drink,Plein Air,Food & Drink | ,"Sep 22, 2022",$0.0
+BURGER KING® App,com.emn8.mobilem8.nativeapp.bk,3.8,242K reviews,10M+,Everyone,Food & Drink,"Burger King, Inc.",Food & Drink | ,"Oct 7, 2022",$0.0
+Dunkin’,com.dunkinbrands.otgo,4.7,259K reviews,10M+,Everyone,Food & Drink,"Dunkin' Brands, Inc.",#7 top free food & drink | Food & Drink | ,"Sep 26, 2022",$0.0
+Starbucks,com.starbucks.mobilecard,4.6,696K reviews,10M+,Everyone,Food & Drink,Starbucks Coffee Company,#4 top free food & drink | Food & Drink | ,"Sep 29, 2022",$0.0
+Wendy’s,com.wendys.nutritiontool,1.7,59.8K reviews,10M+,Everyone,Food & Drink,"Wendy's Int'l., LLC",Food & Drink | ,"Oct 6, 2022",$0.0
+Pizza Hut - Food Delivery & Ta,com.yum.pizzahut,4.2,825K reviews,10M+,Everyone,Food & Drink,Pizza Hut Inc.,Food & Drink | ,"May 6, 2022",$0.0
+Chick-fil-A®,com.chickfila.cfaflagship,4.5,157K reviews,10M+,Everyone,Food & Drink,"Chick-fil-A, Inc.",#10 top free food & drink | Food & Drink | ,"Oct 13, 2022",$0.0
+Flavor Maker by McCormick,com.mccormick.flavormakers,4.7,3.93K reviews,500K+,Everyone,Food & Drink,"McCormick & Company, Inc.",Food & Drink | ,"Oct 11, 2022",$0.0
+DoorDash - Food Delivery,com.dd.doordash,4.6,2.99M reviews,10M+,Everyone,Food & Drink,DoorDash,#2 top free food & drink | Food & Drink | ,"Oct 11, 2022",$0.0
+Instacart: Grocery delivery,com.instacart.client,4.1,209K reviews,10M+,Everyone,Food & Drink,Instacart,#6 top free food & drink | Food & Drink | ,"Oct 13, 2022",$0.0
+KFC US - Ordering App,com.kfc.us.mobile,3.8,15.1K reviews,1M+,Everyone,Food & Drink,KFC Corporation,Food & Drink | ,"Sep 19, 2022",$0.0
+Popeyes® App,com.emn8.mobilem8.nativeapp.popeyes,4.3,58.3K reviews,5M+,Everyone,Food & Drink,"Popeyes Louisiana Kitchen, Inc.",Food & Drink | ,"Oct 13, 2022",$0.0
+"Yelp: Food, Delivery & Reviews",com.yelp.android,4.5,523K reviews,50M+,Teen,Food & Drink,"Yelp, Inc",Food & Drink | ,"Oct 13, 2022",$0.0
+Grubhub: Food Delivery,com.grubhub.android,4.5,722K reviews,10M+,Everyone,Food & Drink,Grubhub,#8 top free food & drink | Food & Drink | ,"Oct 6, 2022",$0.0
+Postmates - Food Delivery,com.postmates.android,4.2,213K reviews,10M+,Everyone,Food & Drink,"Uber Technologies, Inc.",Food & Drink | ,"Oct 10, 2022",$0.0
+Publix Delivery & Curbside,com.instacart.client.publix,4.5,28K reviews,1M+,Everyone,Food & Drink,Publix Super Markets Inc.,Food & Drink | ,"Oct 13, 2022",$0.0
+BURGER KING® App,com.emn8.mobilem8.nativeapp.bk,3.8,242K reviews,10M+,Everyone,Food & Drink,"Burger King, Inc.",Food & Drink | ,"Oct 7, 2022",$0.0
+Dunkin’,com.dunkinbrands.otgo,4.7,259K reviews,10M+,Everyone,Food & Drink,"Dunkin' Brands, Inc.",#7 top free food & drink | Food & Drink | ,"Sep 26, 2022",$0.0
+Starbucks,com.starbucks.mobilecard,4.6,696K reviews,10M+,Everyone,Food & Drink,Starbucks Coffee Company,#4 top free food & drink | Food & Drink | ,"Sep 29, 2022",$0.0
+Wendy’s,com.wendys.nutritiontool,1.7,59.8K reviews,10M+,Everyone,Food & Drink,"Wendy's Int'l., LLC",Food & Drink | ,"Oct 6, 2022",$0.0
+Pizza Hut - Food Delivery & Ta,com.yum.pizzahut,4.2,825K reviews,10M+,Everyone,Food & Drink,Pizza Hut Inc.,Food & Drink | ,"May 6, 2022",$0.0
+Chick-fil-A®,com.chickfila.cfaflagship,4.5,157K reviews,10M+,Everyone,Food & Drink,"Chick-fil-A, Inc.",#10 top free food & drink | Food & Drink | ,"Oct 13, 2022",$0.0
+Flavor Maker by McCormick,com.mccormick.flavormakers,4.7,3.93K reviews,500K+,Everyone,Food & Drink,"McCormick & Company, Inc.",Food & Drink | ,"Oct 11, 2022",$0.0
+DoorDash - Food Delivery,com.dd.doordash,4.6,2.99M reviews,10M+,Everyone,Food & Drink,DoorDash,#2 top free food & drink | Food & Drink | ,"Oct 11, 2022",$0.0
+Instacart: Grocery delivery,com.instacart.client,4.1,209K reviews,10M+,Everyone,Food & Drink,Instacart,#6 top free food & drink | Food & Drink | ,"Oct 13, 2022",$0.0
+KFC US - Ordering App,com.kfc.us.mobile,3.8,15.1K reviews,1M+,Everyone,Food & Drink,KFC Corporation,Food & Drink | ,"Sep 19, 2022",$0.0
+Popeyes® App,com.emn8.mobilem8.nativeapp.popeyes,4.3,58.3K reviews,5M+,Everyone,Food & Drink,"Popeyes Louisiana Kitchen, Inc.",Food & Drink | ,"Oct 13, 2022",$0.0
+"Yelp: Food, Delivery & Reviews",com.yelp.android,4.5,523K reviews,50M+,Teen,Food & Drink,"Yelp, Inc",Food & Drink | ,"Oct 13, 2022",$0.0
+Grubhub: Food Delivery,com.grubhub.android,4.5,722K reviews,10M+,Everyone,Food & Drink,Grubhub,#8 top free food & drink | Food & Drink | ,"Oct 6, 2022",$0.0
+Postmates - Food Delivery,com.postmates.android,4.2,213K reviews,10M+,Everyone,Food & Drink,"Uber Technologies, Inc.",Food & Drink | ,"Oct 10, 2022",$0.0
+Publix Delivery & Curbside,com.instacart.client.publix,4.5,28K reviews,1M+,Everyone,Food & Drink,Publix Super Markets Inc.,Food & Drink | ,"Oct 13, 2022",$0.0
+Pizza Hut - Food Delivery & Ta,com.yum.pizzahut,4.2,825K reviews,10M+,Everyone,Food & Drink,Pizza Hut Inc.,Food & Drink | ,"May 6, 2022",$0.0
+Chick-fil-A®,com.chickfila.cfaflagship,4.5,157K reviews,10M+,Everyone,Food & Drink,"Chick-fil-A, Inc.",#10 top free food & drink | Food & Drink | ,"Oct 13, 2022",$0.0
+DoorDash - Food Delivery,com.dd.doordash,4.6,2.99M reviews,10M+,Everyone,Food & Drink,DoorDash,#2 top free food & drink | Food & Drink | ,"Oct 11, 2022",$0.0
+KFC US - Ordering App,com.kfc.us.mobile,3.8,15.1K reviews,1M+,Everyone,Food & Drink,KFC Corporation,Food & Drink | ,"Sep 19, 2022",$0.0
+Popeyes® App,com.emn8.mobilem8.nativeapp.popeyes,4.3,58.3K reviews,5M+,Everyone,Food & Drink,"Popeyes Louisiana Kitchen, Inc.",Food & Drink | ,"Oct 13, 2022",$0.0
+Grubhub: Food Delivery,com.grubhub.android,4.5,722K reviews,10M+,Everyone,Food & Drink,Grubhub,#8 top free food & drink | Food & Drink | ,"Oct 6, 2022",$0.0
+Postmates - Food Delivery,com.postmates.android,4.2,213K reviews,10M+,Everyone,Food & Drink,"Uber Technologies, Inc.",Food & Drink | ,"Oct 10, 2022",$0.0
+"Calm - Sleep, Meditate, Relax",com.calm.android,4.4,509K reviews,10M+,Everyone,Health & Fitness,"Calm.com, Inc.",#3 top grossing health & fitness | Health & Fitness | ,"Oct 14, 2022",$0.0
+Google Fit: Activity Tracking,com.google.android.apps.fitness,3.9,548K reviews,100M+,Everyone,Health & Fitness,Google LLC,#6 top free health & fitness | Health & Fitness | ,"Oct 13, 2022",$0.0
+"AllTrails: Hike, Bike & Run",com.alltrails.alltrails,4.8,126K reviews,10M+,Everyone,Health & Fitness,"AllTrails, LLC",#4 top grossing health & fitness | Health & Fitness | ,"Oct 14, 2022",$0.0
+MyFitnessPal: Calorie Counter,com.myfitnesspal.android,4.3,2.52M reviews,100M+,Everyone,Health & Fitness,"MyFitnessPal, Inc.",#2 top grossing health & fitness | Health & Fitness | ,"Oct 12, 2022",$0.0
+Headspace: Mindful Meditation,com.getsomeheadspace.android,4.3,282K reviews,10M+,Everyone,Health & Fitness,"Headspace for Meditation, Mindfulness and Sleep",#8 top grossing health & fitness | Health & Fitness | ,"Oct 11, 2022",$0.0
+Planet Fitness Workouts,com.planetfitness,3.6,25.5K reviews,5M+,Everyone,Health & Fitness,Planet Fitness,#1 top free health & fitness | Health & Fitness | ,"Sep 30, 2022",$0.0
+Cashwalk: Step Counter&Rewards,com.cashwalklabs.cashwalk,4.2,31.6K reviews,500K+,Everyone,Health & Fitness,"CASHWALK LABS, INC.",Health & Fitness | ,"Oct 12, 2022",$0.0
+The Mindfulness App,se.lichtenstein.mind.en,4.7,18.5K reviews,1M+,Everyone,Health & Fitness,MindApps,Health & Fitness | ,"Sep 19, 2022",$0.0
+Calorie Counter by Lose It!,com.fitnow.loseit,4.5,128K reviews,10M+,Everyone,Health & Fitness,"FitNow, Inc.",#10 top grossing health & fitness | Health & Fitness | ,"Oct 13, 2022",$0.0
+Muscle Booster Workout Planner,musclebooster.workout.home.gym.abs.loseweight,4.5,153K reviews,10M+,Everyone,Health & Fitness,A.L. AMAZING APPS LIMITED,Health & Fitness | ,"Sep 23, 2022",$0.0
+Sweatcoin,in.sweatco.app,4.4,1.59M reviews,50M+,Everyone,Health & Fitness,Sweatco Ltd,Health & Fitness | ,"Oct 13, 2022",$0.0
+24GO by 24 Hour Fitness,io.a24go.android.dev,4,2.66K reviews,500K+,Everyone,Health & Fitness,Your Trainer Inc.,Health & Fitness | ,"Sep 25, 2022",$0.0
+Replika: My AI Friend,ai.replika.app,4.2,419K reviews,10M+,Mature 17+,Health & Fitness,"Luka, Inc",#6 top grossing health & fitness | Health & Fitness | ,"Oct 14, 2022",$0.0
+Peloton - Fitness & Workouts,com.onepeloton.callisto,4.3,11.1K reviews,1M+,Teen,Health & Fitness,"Peloton Interactive, Inc",#9 top grossing health & fitness | Health & Fitness | ,"Oct 12, 2022",$0.0
+Planet Fitness Workouts,com.planetfitness,3.6,25.5K reviews,5M+,Everyone,Health & Fitness,Planet Fitness,#1 top free health & fitness | Health & Fitness | ,"Sep 30, 2022",$0.0
+Cashwalk: Step Counter&Rewards,com.cashwalklabs.cashwalk,4.2,31.6K reviews,500K+,Everyone,Health & Fitness,"CASHWALK LABS, INC.",Health & Fitness | ,"Oct 12, 2022",$0.0
+The Mindfulness App,se.lichtenstein.mind.en,4.7,18.5K reviews,1M+,Everyone,Health & Fitness,MindApps,Health & Fitness | ,"Sep 19, 2022",$0.0
+Muscle Booster Workout Planner,musclebooster.workout.home.gym.abs.loseweight,4.5,153K reviews,10M+,Everyone,Health & Fitness,A.L. AMAZING APPS LIMITED,Health & Fitness | ,"Sep 23, 2022",$0.0
+Sweatcoin,in.sweatco.app,4.4,1.59M reviews,50M+,Everyone,Health & Fitness,Sweatco Ltd,Health & Fitness | ,"Oct 13, 2022",$0.0
+24GO by 24 Hour Fitness,io.a24go.android.dev,4,2.66K reviews,500K+,Everyone,Health & Fitness,Your Trainer Inc.,Health & Fitness | ,"Sep 25, 2022",$0.0
+Peloton - Fitness & Workouts,com.onepeloton.callisto,4.3,11.1K reviews,1M+,Teen,Health & Fitness,"Peloton Interactive, Inc",#9 top grossing health & fitness | Health & Fitness | ,"Oct 12, 2022",$0.0
+Sweatcoin,in.sweatco.app,4.4,1.59M reviews,50M+,Everyone,Health & Fitness,Sweatco Ltd,Health & Fitness | ,"Oct 13, 2022",$0.0
+Nike Training Club: Fitness,com.nike.ntc,4.4,348K reviews,10M+,Everyone,Health & Fitness,"Nike, Inc.",Health & Fitness | ,"Sep 26, 2022",$0.0
+FitOn Workouts & Fitness Plans,com.fiton.android,4.8,93K reviews,5M+,Everyone,Health & Fitness,FitOn,Health & Fitness | ,"Oct 11, 2022",$0.0
+BetterMe: Health Coaching,com.gen.workoutme,3.1,235K reviews,10M+,Everyone,Health & Fitness,BetterMe Limited,Health & Fitness | ,"Oct 12, 2022",$0.0
+Daily Yoga: Fitness+Meditation,com.dailyyoga.inc,4.7,150K reviews,10M+,Everyone,Health & Fitness,Yoga for Everyone,Health & Fitness | ,"Oct 10, 2022",$0.0
+FitCoach: Fitness Coach & Diet,net.workout.lose.weight.fitness.fit.coach,4.6,109K reviews,10M+,Everyone,Health & Fitness,A.L. AMAZING APPS LIMITED,Health & Fitness | ,"Oct 4, 2022",$0.0
+Fitbod Workout & Fitness Plans,com.fitbod.fitbod,4.6,10.7K reviews,1M+,Everyone,Health & Fitness,Fitbod,Health & Fitness | ,"Oct 3, 2022",$0.0
+Yoga-Go: Yoga For Weight Loss,net.beginners.weight.loss.workout.women.yoga.go,4.5,65.8K reviews,10M+,Everyone,Health & Fitness,A.L. AMAZING APPS LIMITED,Health & Fitness | ,"Oct 11, 2022",$0.0
+"Workout at Home, Daily Health",com.home.workout.fit.body,4.8,1.7K reviews,100K+,Everyone,Health & Fitness,About Life Tech.,Health & Fitness | ,"Jul 5, 2022",$0.0
+Blink Fitness,com.blinkfitness.app,3.9,1.03K reviews,100K+,Everyone,Health & Fitness,Blink Holdings Inc.,Health & Fitness | ,"Oct 12, 2022",$0.0
+WalkFit: Walking App,com.walkfit.weightloss.steptracker.pedometer,4,43.6K reviews,10M+,Everyone,Health & Fitness,A.L. AMAZING APPS LIMITED,Health & Fitness | ,"Sep 28, 2022",$0.0
+Strong Workout Tracker Gym Log,io.strongapp.strong,4.8,39.4K reviews,1M+,Everyone,Health & Fitness,Strong Fitness PTE. LTD.,Health & Fitness | ,"Jul 23, 2022",$0.0
+Freeletics: Fitness Workouts,com.freeletics.lite,4.4,234K reviews,10M+,Everyone,Health & Fitness,Freeletics,Health & Fitness | ,"Oct 10, 2022",$0.0
+iFIT - At Home Fitness Coach,com.ifit.wolf,3.8,10.6K reviews,1M+,Everyone,Health & Fitness,iFit,Health & Fitness | ,"Aug 23, 2022",$0.0
+Home Workout - No Equipment,homeworkout.homeworkouts.noequipment,4.9,3.11M reviews,100M+,Everyone,Health & Fitness,Leap Fitness Group,#8 top free health & fitness | Health & Fitness | ,"Apr 27, 2022",$0.0
+Homesnap - Find Homes for Sale,com.homesnap,4.5,9.46K reviews,1M+,Everyone,House & Home,Homesnap,House & Home | ,"Sep 30, 2022",$0.0
+Zillow: Homes For Sale & Rent,com.zillow.android.zillowmap,4.7,878K reviews,10M+,Everyone,House & Home,Zillow,#1 top free house & home | House & Home | ,"Oct 10, 2022",$0.0
+Apartments & Rentals - Zillow,com.zillow.android.rentals,4.7,47.6K reviews,5M+,Everyone,House & Home,Zillow,House & Home | ,"Oct 11, 2022",$0.0
+Home Assistant,io.homeassistant.companion.android,4.2,6.31K reviews,1M+,Everyone,House & Home,Home Assistant,House & Home | ,"Oct 1, 2022",$0.0
+Realtor.com Real Estate,com.move.realtor,4.7,360K reviews,10M+,Everyone,House & Home,realtor.com®,#5 top free house & home | House & Home | ,"Oct 10, 2022",$0.0
+Rent. Apartments & Homes,com.rent,4.5,34.5K reviews,1M+,Everyone,House & Home,"Rent Group, Inc",#3 top free house & home | House & Home | ,"Sep 21, 2022",$0.0
+Trulia: Homes For Sale & Rent,com.trulia.android,4.6,222K reviews,10M+,Everyone,House & Home,Trulia,House & Home | ,"Oct 5, 2022",$0.0
+Apartments.com Rental Search a,com.apartments.mobile.android,4.6,64.6K reviews,5M+,Everyone,House & Home,Apartments.com,House & Home | ,"Aug 17, 2022",$0.0
+Trulia Rent Apartments & Homes,com.trulia.android.rentals,4.5,82K reviews,5M+,Everyone,House & Home,Trulia,House & Home | ,"Oct 5, 2022",$0.0
+Thumbtack: Hire Service Pros,com.thumbtack.consumer,4.4,13.2K reviews,1M+,Everyone,House & Home,Thumbtack,#8 top free house & home | House & Home | ,"Oct 11, 2022",$0.0
+Apartment List,com.apartmentlist.mobile,4.6,50.3K reviews,1M+,Everyone,House & Home,Apartment List,#10 top free house & home | House & Home | ,"Sep 12, 2022",$0.0
+HotPads Apartments & Home Rent,com.hotpads.mobile,4.6,38.7K reviews,1M+,Everyone,House & Home,HotPads,House & Home | ,"Apr 18, 2022",$0.0
+T-Mobile Internet,com.tmobile.homeisp,4.2,7.71K reviews,1M+,Everyone,House & Home,T-Mobile USA,#2 top free house & home | House & Home | ,"Aug 8, 2022",$0.0
+Redfin Houses for Sale & Rent,com.redfin.android,4.6,100K reviews,5M+,Everyone,House & Home,Redfin,#7 top free house & home | House & Home | ,"Oct 14, 2022",$0.0
+Angi: Hire Home Service Pros,com.servicemagic.consumer,3.8,25.3K reviews,5M+,Everyone,House & Home,Angi Inc.,#4 top free house & home | House & Home | ,"Oct 11, 2022",$0.0
+SmartRent,com.smartrent.resident,3.9,5.99K reviews,100K+,Everyone,House & Home,SmartRent,House & Home | ,"Sep 28, 2022",$0.0
+Vivint,com.vivint.vivintsky,4.1,103K reviews,1M+,Everyone,House & Home,Vivint Home,House & Home | ,"Oct 10, 2022",$0.0
+Realtor.com Real Estate,com.move.realtor,4.7,360K reviews,10M+,Everyone,House & Home,realtor.com®,#5 top free house & home | House & Home | ,"Oct 10, 2022",$0.0
+Rent. Apartments & Homes,com.rent,4.5,34.5K reviews,1M+,Everyone,House & Home,"Rent Group, Inc",#3 top free house & home | House & Home | ,"Sep 21, 2022",$0.0
+Trulia: Homes For Sale & Rent,com.trulia.android,4.6,222K reviews,10M+,Everyone,House & Home,Trulia,House & Home | ,"Oct 5, 2022",$0.0
+Apartments.com Rental Search a,com.apartments.mobile.android,4.6,64.6K reviews,5M+,Everyone,House & Home,Apartments.com,House & Home | ,"Aug 17, 2022",$0.0
+Trulia Rent Apartments & Homes,com.trulia.android.rentals,4.5,82K reviews,5M+,Everyone,House & Home,Trulia,House & Home | ,"Oct 5, 2022",$0.0
+Thumbtack: Hire Service Pros,com.thumbtack.consumer,4.4,13.2K reviews,1M+,Everyone,House & Home,Thumbtack,#8 top free house & home | House & Home | ,"Oct 11, 2022",$0.0
+Apartment List,com.apartmentlist.mobile,4.6,50.3K reviews,1M+,Everyone,House & Home,Apartment List,#10 top free house & home | House & Home | ,"Sep 12, 2022",$0.0
+HotPads Apartments & Home Rent,com.hotpads.mobile,4.6,38.7K reviews,1M+,Everyone,House & Home,HotPads,House & Home | ,"Apr 18, 2022",$0.0
+Redfin Houses for Sale & Rent,com.redfin.android,4.6,100K reviews,5M+,Everyone,House & Home,Redfin,#7 top free house & home | House & Home | ,"Oct 14, 2022",$0.0
+Angi: Hire Home Service Pros,com.servicemagic.consumer,3.8,25.3K reviews,5M+,Everyone,House & Home,Angi Inc.,#4 top free house & home | House & Home | ,"Oct 11, 2022",$0.0
+SmartRent,com.smartrent.resident,3.9,5.99K reviews,100K+,Everyone,House & Home,SmartRent,House & Home | ,"Sep 28, 2022",$0.0
+Vivint,com.vivint.vivintsky,4.1,103K reviews,1M+,Everyone,House & Home,Vivint Home,House & Home | ,"Oct 10, 2022",$0.0
+Trulia Rent Apartments & Homes,com.trulia.android.rentals,4.5,82K reviews,5M+,Everyone,House & Home,Trulia,House & Home | ,"Oct 5, 2022",$0.0
+Apartment List,com.apartmentlist.mobile,4.6,50.3K reviews,1M+,Everyone,House & Home,Apartment List,#10 top free house & home | House & Home | ,"Sep 12, 2022",$0.0
+HotPads Apartments & Home Rent,com.hotpads.mobile,4.6,38.7K reviews,1M+,Everyone,House & Home,HotPads,House & Home | ,"Apr 18, 2022",$0.0
+Redfin Houses for Sale & Rent,com.redfin.android,4.6,100K reviews,5M+,Everyone,House & Home,Redfin,#7 top free house & home | House & Home | ,"Oct 14, 2022",$0.0
+Angi: Hire Home Service Pros,com.servicemagic.consumer,3.8,25.3K reviews,5M+,Everyone,House & Home,Angi Inc.,#4 top free house & home | House & Home | ,"Oct 11, 2022",$0.0
+Gaze - Live Random Video Chat,video.chat.gaze,4.4,15.8K reviews,1M+,Mature 17+,Lifestyle,VLMedia A.Ş.,#6 top grossing lifestyle | Lifestyle | ,"Sep 29, 2022",$0.0
+Tumile - Live Video Chat,com.rcplatform.livechat,4.4,482K reviews,10M+,Mature 17+,Lifestyle,Tumile Team,Lifestyle | ,"Oct 14, 2022",$0.0
+Money Turn - play and invest,moneyturn.app,4.4,12.5K reviews,500K+,Everyone,Lifestyle,Money Turn,Lifestyle | ,"Sep 28, 2022",$0.0
+Samsung Wallet (Samsung Pay),com.samsung.android.spay,4.4,1.1M reviews,100M+,Everyone,Lifestyle,"Samsung Electronics Co.,  Ltd.",Lifestyle | ,"Aug 31, 2022",$0.0
+Google Home,com.google.android.apps.chromecast.app,4.3,1.69M reviews,100M+,Everyone,Lifestyle,Google LLC,#4 top free lifestyle | Lifestyle | ,"Oct 11, 2022",$0.0
+Bermuda Video Chat,vixr.bermuda,4.3,142K reviews,10M+,Mature 17+,Lifestyle,Bermuda Inc.,Lifestyle | ,"Oct 11, 2022",$0.0
+Life360: Find Family & Friends,com.life360.android.safetymapd,4.6,1.62M reviews,100M+,Everyone,Lifestyle,Life360,#1 top free lifestyle | Lifestyle | ,"Sep 28, 2022",$0.0
+Amazon Alexa,com.amazon.dee.app,4.4,1.88M reviews,100M+,Everyone,Lifestyle,Amazon Mobile LLC,#3 top free lifestyle | Lifestyle | ,"Sep 21, 2022",$0.0
+Nextdoor: Neighborhood network,com.nextdoor,4.6,232K reviews,10M+,Teen,Lifestyle,Nextdoor.com,#8 top free lifestyle | Lifestyle | ,"Oct 14, 2022",$0.0
+Guroja - Live Video Chat,com.colive.guroja,4,11.3K reviews,1M+,Mature 17+,Lifestyle,Coconut Live Inc.,Lifestyle | ,"Oct 12, 2022",$0.0
+SmartThings,com.samsung.android.oneconnect,4.2,957K reviews,500M+,Everyone,Lifestyle,"Samsung Electronics Co.,  Ltd.",Lifestyle | ,"Aug 21, 2022",$0.0
+Nest,com.nest.android,4.2,333K reviews,10M+,Everyone,Lifestyle,Nest Labs Inc.,Lifestyle | ,"Sep 15, 2022",$0.0
+Waze Navigation & Live Traffic,com.waze,4.4,8.58M reviews,100M+,Everyone,Maps & Navigation,Waze,#3 top free maps & navigation | Maps & Navigation | ,"Sep 17, 2022",$0.0
+MapQuest: Get Directions,com.mapquest.android.ace,4.2,63.5K reviews,10M+,Everyone,Maps & Navigation,MapQuest,Maps & Navigation | ,"Sep 28, 2022",$0.0
+Sygic GPS Navigation & Maps,com.sygic.aura,4.4,1.83M reviews,50M+,Everyone,Maps & Navigation,Sygic.,Maps & Navigation | ,"Sep 26, 2022",$0.0
+"MyTransit NYC Subway, MTA Bus",com.nyctrans.it,4.7,30.4K reviews,1M+,Everyone,Maps & Navigation,MyTransit™,Maps & Navigation | ,"Oct 14, 2022",$0.0
+Citymapper: All Your Transport,com.citymapper.app.release,4.7,199K reviews,10M+,Everyone,Maps & Navigation,Citymapper Limited,Maps & Navigation | ,"Oct 13, 2022",$0.0
+Trucker Path: Truck GPS & Maps,com.sixdays.truckerpath,4.3,58.3K reviews,1M+,Everyone,Maps & Navigation,Trucker Path,#1 top grossing maps & navigation | Maps & Navigation | ,"Oct 4, 2022",$0.0
+Bolt Driver: Drive & Earn,ee.mtakso.driver,4.6,310K reviews,10M+,Everyone,Maps & Navigation,Bolt Technology,Maps & Navigation | ,"Sep 29, 2022",$0.0
+Transit: Bus & Subway Times,com.thetransitapp.droid,4.4,101K reviews,10M+,Everyone,Maps & Navigation,"Transit, Inc.",#6 top free maps & navigation | Maps & Navigation | ,"Oct 13, 2022",$0.0
+HERE WeGo: Maps & Navigation,com.here.app.maps,3.4,498K reviews,10M+,Everyone,Maps & Navigation,HERE Apps LLC,Maps & Navigation | ,"Oct 12, 2022",$0.0
+Lyft,me.lyft.android,4,305K reviews,50M+,Everyone,Maps & Navigation,"Lyft, Inc.",#2 top free maps & navigation | Maps & Navigation | ,"Oct 7, 2022",$0.0
+Moovit: Bus & Train Schedules,com.tranzmate,4.5,1.24M reviews,100M+,Everyone,Maps & Navigation,Moovit,#8 top free maps & navigation | Maps & Navigation | ,"Oct 4, 2022",$0.0
+Roadie Driver,com.roadie.drive.android.app,4.1,10.1K reviews,500K+,Everyone,Maps & Navigation,"Roadie, Inc.",Maps & Navigation | ,"Oct 7, 2022",$0.0
+Exxon Mobil Rewards+,com.webmarketing.exxonmpl,4.2,26.6K reviews,1M+,Everyone,Maps & Navigation,ExxonMobil,Maps & Navigation | ,"Jun 28, 2022",$0.0
+Citi Bike,com.citibikenyc.citibike,3.3,2.54K reviews,500K+,Everyone,Maps & Navigation,"Lyft, Inc.",Maps & Navigation | ,"Oct 7, 2022",$0.0
+TomTom GO Navigation,com.tomtom.gplay.navapp,3.8,222K reviews,10M+,Everyone,Maps & Navigation,TomTom International BV,Maps & Navigation | ,"Sep 21, 2022",$0.0
+Topo GPS Germany,ge.rdzl.topo.gps,,,10K+,Everyone,Maps & Navigation,rdzl,Maps & Navigation | ,"Mar 31, 2022",$4.49
+Guru Maps Pro,com.bodunov.GalileoPro,4.4,1.86K reviews,50K+,Everyone,Maps & Navigation,Evgen Bodunov,Maps & Navigation | ,"Sep 30, 2022",$67.50
+Topo GPS Netherlands,nl.rdzl.topo.gps,,,10K+,Everyone,Maps & Navigation,rdzl,Maps & Navigation | ,"Jun 2, 2022",$4.49
+GPX Viewer PRO,com.vecturagames.android.app.gpxviewer.pro,4.3,6.15K reviews,100K+,Everyone,Maps & Navigation,Vectura Games O├ю,#7 top paid maps & navigation | Maps & Navigation | ,"Oct 11, 2022",$7.49
+Locus Map 3 Classic,menion.android.locus.pro,4.7,44K reviews,100K+,Everyone,Maps & Navigation,"Asamm Software, s. r. o.",Maps & Navigation | ,"Oct 13, 2022",$10.99
+Citymapper: All Your Transport,com.citymapper.app.release,4.7,199K reviews,10M+,Everyone,Maps & Navigation,Citymapper Limited,Maps & Navigation | ,"Oct 13, 2022",$0.0
+Trucker Path: Truck GPS & Maps,com.sixdays.truckerpath,4.3,58.3K reviews,1M+,Everyone,Maps & Navigation,Trucker Path,#1 top grossing maps & navigation | Maps & Navigation | ,"Oct 4, 2022",$0.0
+Transit: Bus & Subway Times,com.thetransitapp.droid,4.4,101K reviews,10M+,Everyone,Maps & Navigation,"Transit, Inc.",#6 top free maps & navigation | Maps & Navigation | ,"Oct 13, 2022",$0.0
+HERE WeGo: Maps & Navigation,com.here.app.maps,3.4,498K reviews,10M+,Everyone,Maps & Navigation,HERE Apps LLC,Maps & Navigation | ,"Oct 12, 2022",$0.0
+Lyft,me.lyft.android,4,305K reviews,50M+,Everyone,Maps & Navigation,"Lyft, Inc.",#2 top free maps & navigation | Maps & Navigation | ,"Oct 7, 2022",$0.0
+Moovit: Bus & Train Schedules,com.tranzmate,4.5,1.24M reviews,100M+,Everyone,Maps & Navigation,Moovit,#8 top free maps & navigation | Maps & Navigation | ,"Oct 4, 2022",$0.0
+Roadie Driver,com.roadie.drive.android.app,4.1,10.1K reviews,500K+,Everyone,Maps & Navigation,"Roadie, Inc.",Maps & Navigation | ,"Oct 7, 2022",$0.0
+Exxon Mobil Rewards+,com.webmarketing.exxonmpl,4.2,26.6K reviews,1M+,Everyone,Maps & Navigation,ExxonMobil,Maps & Navigation | ,"Jun 28, 2022",$0.0
+Citi Bike,com.citibikenyc.citibike,3.3,2.54K reviews,500K+,Everyone,Maps & Navigation,"Lyft, Inc.",Maps & Navigation | ,"Oct 7, 2022",$0.0
+TomTom GO Navigation,com.tomtom.gplay.navapp,3.8,222K reviews,10M+,Everyone,Maps & Navigation,TomTom International BV,Maps & Navigation | ,"Sep 21, 2022",$0.0
+Spotify: Music and Podcasts,com.spotify.music,4.4,27.1M reviews,1B+,Teen,Music & Audio,Spotify AB,#1 top free music & audio | Music & Audio | ,"Oct 13, 2022",$0.0
+YouTube Music,com.google.android.apps.youtube.music,4.5,4.19M reviews,1B+,Teen,Music & Audio,Google LLC,Music & Audio | ,"Oct 13, 2022",$0.0
+Pandora - Music & Podcasts,com.pandora.android,4.2,3.38M reviews,100M+,Teen,Music & Audio,Pandora,#1 top grossing music & audio | Music & Audio | ,"Oct 12, 2022",$0.0
+Audiomack: Music Downloader,com.audiomack,4.8,2.74M reviews,50M+,Teen,Music & Audio,Audiomack Music Apps,#7 top free music & audio | Music & Audio | ,"Sep 28, 2022",$0.0
+SoundCloud: Play Music & Songs,com.soundcloud.android,4.7,5.98M reviews,100M+,Teen,Music & Audio,SoundCloud,#4 top free music & audio | Music & Audio | ,"Oct 14, 2022",$0.0
+Radio FM,com.radio.fmradio,4.6,851K reviews,50M+,Teen,Music & Audio,RadioFM,Music & Audio | ,"Oct 12, 2022",$0.0
+"iHeart: Music, Radio, Podcasts",com.clearchannel.iheartradio.controller,4.6,2.29M reviews,50M+,Teen,Music & Audio,"iHeartMedia, Inc.",#2 top grossing music & audio | Music & Audio | ,"Sep 27, 2022",$0.0
+Voice Recorder Sound Recorder,com.record.voice.day.all,4.7,889 reviews,10K+,Everyone,Music & Audio,Health Dev LLC,Music & Audio | ,"Sep 21, 2022",$0.0
+My Mixtapez: Music & Podcasts,my.googlemusic.play,4.6,342K reviews,10M+,Teen,Music & Audio,My Mixtapez: Rap & Hip Hop,Music & Audio | ,"Sep 29, 2022",$0.0
+Pandora Music for TV,com.pandora.android.atv,3.2,52 reviews,5M+,Teen,Music & Audio,Pandora,Music & Audio | ,"Nov 1, 2021",$0.0
+myTuner Radio App: FM stations,com.appgeneration.itunerfree,4.6,227K reviews,10M+,Teen,Music & Audio,"Appgeneration - Radio, Podcasts, Games",Music & Audio | Play Pass | ,"Jun 20, 2022",$0.0
+"SiriusXM: Music, Sports & News",com.sirius,4.7,728K reviews,10M+,Teen,Music & Audio,Sirius XM Radio Inc,#3 top free music & audio | Music & Audio | ,"Sep 7, 2022",$0.0
+Google Podcasts,com.google.android.apps.podcasts,4.6,631K reviews,100M+,Teen,Music & Audio,Google LLC,Music & Audio | ,"Aug 9, 2022",$0.0
+"TuneIn Radio: News, Music & FM",tunein.player,4.7,2.28M reviews,100M+,Teen,Music & Audio,TuneIn Inc,#5 top grossing music & audio | Music & Audio | ,"Oct 12, 2022",$0.0
+TIDAL Music,com.aspiro.tidal,4.1,313K reviews,10M+,Teen,Music & Audio,TIDAL,Music & Audio | ,"Sep 29, 2022",$0.0
+Audacy: Live Radio & Podcasts,com.radiocom,1.6,39.8K reviews,1M+,Teen,Music & Audio,Entercom Communications,Music & Audio | ,"Sep 15, 2022",$0.0
+Smule: Karaoke Songs & Videos,com.smule.singandroid,3.8,4.1M reviews,100M+,Teen,Music & Audio,Smule,#10 top grossing music & audio | Music & Audio | ,"Oct 10, 2022",$0.0
+SoundHound - Music Discovery,com.melodis.midomiMusicIdentifier.freemium,4.5,925K reviews,100M+,Teen,Music & Audio,SoundHound Inc.,Music & Audio | ,"Sep 21, 2022",$0.0
+Podcast Player App - Podbean,com.podbean.app.podcast,4.7,180K reviews,5M+,Teen,Music & Audio,Podbean - Podcast & Radio & Audiobook,Music & Audio | ,"Oct 8, 2022",$0.0
+Stitcher - Podcast Player,com.stitcher.app,4.7,67K reviews,5M+,Teen,Music & Audio,"Stitcher, Inc",Music & Audio | ,"Oct 7, 2022",$0.0
+SoundCloud: Play Music & Songs,com.soundcloud.android,4.7,5.98M reviews,100M+,Teen,Music & Audio,SoundCloud,#4 top free music & audio | Music & Audio | ,"Oct 14, 2022",$0.0
+Radio FM,com.radio.fmradio,4.6,851K reviews,50M+,Teen,Music & Audio,RadioFM,Music & Audio | ,"Oct 12, 2022",$0.0
+"iHeart: Music, Radio, Podcasts",com.clearchannel.iheartradio.controller,4.6,2.29M reviews,50M+,Teen,Music & Audio,"iHeartMedia, Inc.",#2 top grossing music & audio | Music & Audio | ,"Sep 27, 2022",$0.0
+Voice Recorder Sound Recorder,com.record.voice.day.all,4.7,889 reviews,10K+,Everyone,Music & Audio,Health Dev LLC,Music & Audio | ,"Sep 21, 2022",$0.0
+My Mixtapez: Music & Podcasts,my.googlemusic.play,4.6,342K reviews,10M+,Teen,Music & Audio,My Mixtapez: Rap & Hip Hop,Music & Audio | ,"Sep 29, 2022",$0.0
+Pandora Music for TV,com.pandora.android.atv,3.2,52 reviews,5M+,Teen,Music & Audio,Pandora,Music & Audio | ,"Nov 1, 2021",$0.0
+myTuner Radio App: FM stations,com.appgeneration.itunerfree,4.6,227K reviews,10M+,Teen,Music & Audio,"Appgeneration - Radio, Podcasts, Games",Music & Audio | Play Pass | ,"Jun 20, 2022",$0.0
+"SiriusXM: Music, Sports & News",com.sirius,4.7,728K reviews,10M+,Teen,Music & Audio,Sirius XM Radio Inc,#3 top free music & audio | Music & Audio | ,"Sep 7, 2022",$0.0
+Google Podcasts,com.google.android.apps.podcasts,4.6,631K reviews,100M+,Teen,Music & Audio,Google LLC,Music & Audio | ,"Aug 9, 2022",$0.0
+"TuneIn Radio: News, Music & FM",tunein.player,4.7,2.28M reviews,100M+,Teen,Music & Audio,TuneIn Inc,#5 top grossing music & audio | Music & Audio | ,"Oct 12, 2022",$0.0
+TIDAL Music,com.aspiro.tidal,4.1,313K reviews,10M+,Teen,Music & Audio,TIDAL,Music & Audio | ,"Sep 29, 2022",$0.0
+Smule: Karaoke Songs & Videos,com.smule.singandroid,3.8,4.1M reviews,100M+,Teen,Music & Audio,Smule,#10 top grossing music & audio | Music & Audio | ,"Oct 10, 2022",$0.0
+SoundHound - Music Discovery,com.melodis.midomiMusicIdentifier.freemium,4.5,925K reviews,100M+,Teen,Music & Audio,SoundHound Inc.,Music & Audio | ,"Sep 21, 2022",$0.0
+Podcast Player App - Podbean,com.podbean.app.podcast,4.7,180K reviews,5M+,Teen,Music & Audio,Podbean - Podcast & Radio & Audiobook,Music & Audio | ,"Oct 8, 2022",$0.0
+Stitcher - Podcast Player,com.stitcher.app,4.7,67K reviews,5M+,Teen,Music & Audio,"Stitcher, Inc",Music & Audio | ,"Oct 7, 2022",$0.0
+NewsBreak: Local News & Alerts,com.particlenews.newsbreak,4.5,368K reviews,50M+,Teen,News & Magazines,Particle Media Inc.,#1 top free news & magazines | News & Magazines | ,"Oct 12, 2022",$0.0
+Google News - Daily Headlines,com.google.android.apps.magazines,4.1,1.72M reviews,1B+,Teen,News & Magazines,Google LLC,News & Magazines | ,"Oct 10, 2022",$0.0
+"Yahoo - News, Mail, Sports",com.yahoo.apps.yahooapp,4.5,12.1K reviews,1M+,Everyone 10+,News & Magazines,Yahoo,News & Magazines | ,"Jul 18, 2022",$0.0
+CBS News - Live Breaking News,com.treemolabs.apps.cbsnews,4.5,62.8K reviews,1M+,Everyone 10+,News & Magazines,"CBS Interactive, Inc.",News & Magazines | ,"Sep 30, 2022",$0.0
+Newsmax,com.fli.android.newsmaxapp,4.7,22.2K reviews,1M+,Everyone,News & Magazines,Newsmax Media,News & Magazines | ,"Sep 28, 2022",$0.0
+Fox News - Daily Breaking News,com.foxnews.android,2.5,286K reviews,10M+,Everyone 10+,News & Magazines,"FOX News Network, LLC",News & Magazines | ,"Oct 10, 2022",$0.0
+CNN Breaking US & World News,com.cnn.mobile.android.phone,4.6,552K reviews,50M+,Everyone 10+,News & Magazines,CNN,News & Magazines | ,"Oct 3, 2022",$0.0
+Flipboard: The Social Magazine,flipboard.app,4,1.42M reviews,500M+,Everyone 10+,News & Magazines,Flipboard,News & Magazines | ,"Aug 16, 2022",$0.0
+ABC News - US & World News,com.abc.abcnews,3.7,24K reviews,5M+,Everyone 10+,News & Magazines,Disney,News & Magazines | ,"Oct 11, 2022",$0.0
+Fox Nation: Celebrate America,com.fng.foxnation,4,12.4K reviews,1M+,Teen,News & Magazines,"FOX News Network, LLC",#3 top grossing news & magazines | News & Magazines | ,"Oct 11, 2022",$0.0
+Medium,com.medium.reader,4.7,234K reviews,5M+,Teen,News & Magazines,A Medium Corporation,#10 top grossing news & magazines | News & Magazines | ,"Oct 12, 2022",$0.0
+The Epoch Times: Breaking News,com.theepochtimes.news,4.7,68.3K reviews,1M+,Everyone,News & Magazines,Epoch Times Association Inc,#4 top grossing news & magazines | News & Magazines | ,"Oct 13, 2022",$0.0
+Yahoo News: Breaking & Local,com.yahoo.mobile.client.android.yahoo,3.7,242K reviews,10M+,Everyone 10+,News & Magazines,Yahoo,News & Magazines | ,"Sep 28, 2022",$0.0
+The New York Times,com.nytimes.android,4.4,133K reviews,10M+,Everyone 10+,News & Magazines,The New York Times Company,#1 top grossing news & magazines | News & Magazines | ,"Sep 20, 2022",$0.0
+"AOL - News, Mail & Video",com.aol.mobile.aolapp,4.3,147K reviews,10M+,Everyone 10+,News & Magazines,AOL Inc.,News & Magazines | ,"Sep 30, 2022",$0.0
+NBC News: Breaking News & Live,com.zumobi.msnbc,4.3,84.6K reviews,5M+,Teen,News & Magazines,NBC News Digital LLC,News & Magazines | ,"Oct 14, 2022",$0.0
+Washington Post,com.washingtonpost.android,4.4,82K reviews,1M+,Everyone 10+,News & Magazines,The Washington Post,#7 top grossing news & magazines | News & Magazines | ,"Sep 29, 2022",$0.0
+The Wall Street Journal: Busin,wsj.reader_sp,4.4,75K reviews,1M+,Everyone 10+,News & Magazines,"Dow Jones & Company, Inc.",#2 top grossing news & magazines | News & Magazines | ,"Oct 12, 2022",$0.0
+Podcast Player,com.podcast.podcasts,4.7,243K reviews,10M+,Teen,News & Magazines,Castbox.FM - Radio & Podcast & AudioBooks,#6 top free news & magazines | News & Magazines | ,"Oct 10, 2022",$0.0
+Newsmax,com.fli.android.newsmaxapp,4.7,22.2K reviews,1M+,Everyone,News & Magazines,Newsmax Media,News & Magazines | ,"Sep 28, 2022",$0.0
+Fox News - Daily Breaking News,com.foxnews.android,2.5,286K reviews,10M+,Everyone 10+,News & Magazines,"FOX News Network, LLC",News & Magazines | ,"Oct 10, 2022",$0.0
+Flipboard: The Social Magazine,flipboard.app,4,1.42M reviews,500M+,Everyone 10+,News & Magazines,Flipboard,News & Magazines | ,"Aug 16, 2022",$0.0
+ABC News - US & World News,com.abc.abcnews,3.7,24K reviews,5M+,Everyone 10+,News & Magazines,Disney,News & Magazines | ,"Oct 11, 2022",$0.0
+Fox Nation: Celebrate America,com.fng.foxnation,4,12.4K reviews,1M+,Teen,News & Magazines,"FOX News Network, LLC",#3 top grossing news & magazines | News & Magazines | ,"Oct 11, 2022",$0.0
+Medium,com.medium.reader,4.7,234K reviews,5M+,Teen,News & Magazines,A Medium Corporation,#10 top grossing news & magazines | News & Magazines | ,"Oct 12, 2022",$0.0
+The Epoch Times: Breaking News,com.theepochtimes.news,4.7,68.3K reviews,1M+,Everyone,News & Magazines,Epoch Times Association Inc,#4 top grossing news & magazines | News & Magazines | ,"Oct 13, 2022",$0.0
+Yahoo News: Breaking & Local,com.yahoo.mobile.client.android.yahoo,3.7,242K reviews,10M+,Everyone 10+,News & Magazines,Yahoo,News & Magazines | ,"Sep 28, 2022",$0.0
+The New York Times,com.nytimes.android,4.4,133K reviews,10M+,Everyone 10+,News & Magazines,The New York Times Company,#1 top grossing news & magazines | News & Magazines | ,"Sep 20, 2022",$0.0
+"AOL - News, Mail & Video",com.aol.mobile.aolapp,4.3,147K reviews,10M+,Everyone 10+,News & Magazines,AOL Inc.,News & Magazines | ,"Sep 30, 2022",$0.0
+NBC News: Breaking News & Live,com.zumobi.msnbc,4.3,84.6K reviews,5M+,Teen,News & Magazines,NBC News Digital LLC,News & Magazines | ,"Oct 14, 2022",$0.0
+Washington Post,com.washingtonpost.android,4.4,82K reviews,1M+,Everyone 10+,News & Magazines,The Washington Post,#7 top grossing news & magazines | News & Magazines | ,"Sep 29, 2022",$0.0
+The Wall Street Journal: Busin,wsj.reader_sp,4.4,75K reviews,1M+,Everyone 10+,News & Magazines,"Dow Jones & Company, Inc.",#2 top grossing news & magazines | News & Magazines | ,"Oct 12, 2022",$0.0
+Podcast Player,com.podcast.podcasts,4.7,243K reviews,10M+,Teen,News & Magazines,Castbox.FM - Radio & Podcast & AudioBooks,#6 top free news & magazines | News & Magazines | ,"Oct 10, 2022",$0.0
+Parental Control Kroha,ua.com.tim_berners.parental_control,4.8,22.6K reviews,1M+,Everyone,Parenting,Parental Control Kroha,Parenting | ,"Jul 13, 2022",$0.0
+Daniel Tiger for Parents,org.pbskids.danieltigerforparents,4,759 reviews,500K+,Everyone,Parenting,PBS KIDS,Parenting | ,"Jul 9, 2020",$0.0
+Sago Mini Parents,com.sagosago.Parent.googleplay,4,241 reviews,100K+,Everyone,Parenting,Sago Mini,Parenting | ,"Sep 29, 2021",$0.0
+Find My Kids: location tracker,org.findmykids.app,4.7,877K reviews,10M+,Everyone,Parenting,GEO TRACK TECHNOLOGIES INC,#1 top grossing parenting | Parenting | ,"Oct 14, 2022",$0.0
+FamilyAlbum - Photo Sharing,us.mitene,4.8,171K reviews,5M+,Everyone,Parenting,"MIXI, Inc.",#10 top free parenting | Parenting | ,"Oct 10, 2022",$0.0
+Securly Home,com.securly.pnphub,4.5,769 reviews,100K+,Everyone,Parenting,Securly Inc.,Parenting | ,"Sep 26, 2022",$0.0
+Microsoft Family Safety,com.microsoft.familysafety,4.1,11.4K reviews,1M+,Everyone,Parenting,Microsoft Corporation,#9 top free parenting | Parenting | ,"Sep 26, 2022",$0.0
+AirDroid Parental Control,com.sand.airdroidkidp,3.4,598 reviews,100K+,Everyone,Parenting,SAND STUDIO,Parenting | ,"Sep 30, 2022",$0.0
+FamiSafe-Parental Control App,com.wondershare.famisafe,5,56K reviews,1M+,Everyone,Parenting,"WONDERSHARE TECHNOLOGY CO., LIMITED",#2 top free parenting | Parenting | ,"Oct 9, 2022",$0.0
+Norton Family Parental Control,com.symantec.familysafety,3.4,23K reviews,1M+,Everyone,Parenting,NortonMobile,Parenting | ,"Sep 29, 2022",$0.0
+Qustodio Parental Control App,com.qustodio.family.parental.control.app.screentime,4.8,10.2K reviews,1M+,Everyone,Parenting,Qustodio LLC,#6 top grossing parenting | Parenting | ,"Oct 4, 2022",$0.0
+"Amazon Kids+: Books, Videos…",com.amazon.tahoe.freetime,4,7.15K reviews,1M+,Everyone,Parenting,Amazon Mobile LLC,#6 top free parenting | Parenting | ,"Oct 5, 2022",$0.0
+Speech Blubs: Language Therapy,org.blubblub.app.speechblubs,4.5,6.86K reviews,1M+,Everyone,Parenting,Blub Blub Inc.,#3 top grossing parenting | Parenting | ,"Sep 27, 2022",$0.0
+FamilyAlbum - Photo Sharing,us.mitene,4.8,171K reviews,5M+,Everyone,Parenting,"MIXI, Inc.",#10 top free parenting | Parenting | ,"Oct 10, 2022",$0.0
+Securly Home,com.securly.pnphub,4.5,769 reviews,100K+,Everyone,Parenting,Securly Inc.,Parenting | ,"Sep 26, 2022",$0.0
+Microsoft Family Safety,com.microsoft.familysafety,4.1,11.4K reviews,1M+,Everyone,Parenting,Microsoft Corporation,#9 top free parenting | Parenting | ,"Sep 26, 2022",$0.0
+AirDroid Parental Control,com.sand.airdroidkidp,3.4,598 reviews,100K+,Everyone,Parenting,SAND STUDIO,Parenting | ,"Sep 30, 2022",$0.0
+FamiSafe-Parental Control App,com.wondershare.famisafe,5,56K reviews,1M+,Everyone,Parenting,"WONDERSHARE TECHNOLOGY CO., LIMITED",#2 top free parenting | Parenting | ,"Oct 9, 2022",$0.0
+Norton Family Parental Control,com.symantec.familysafety,3.4,23K reviews,1M+,Everyone,Parenting,NortonMobile,Parenting | ,"Sep 29, 2022",$0.0
+Qustodio Parental Control App,com.qustodio.family.parental.control.app.screentime,4.8,10.2K reviews,1M+,Everyone,Parenting,Qustodio LLC,#6 top grossing parenting | Parenting | ,"Oct 4, 2022",$0.0
+ZEDGE™ Wallpapers & Ringtones,net.zedge.android,4.6,11.4M reviews,100M+,Teen,Personalization,Zedge,#1 top grossing personalization | Personalization | ,"Oct 5, 2022",$0.0
+Wallpapers,com.google.android.apps.wallpaper,4.1,218K reviews,500M+,Everyone,Personalization,Google LLC,Personalization | ,"Sep 9, 2020",$0.0
+Nova Launcher,com.teslacoilsw.launcher,4.4,1.31M reviews,50M+,Everyone,Personalization,TeslaCoil Software,,"Dec 15, 2021",$0.0
+Messenger Home - SMS Launcher,com.myhomescreen.sms,4.1,183K reviews,10M+,Everyone,Personalization,Yobi Mobi,#3 top free personalization | Personalization | ,"Oct 11, 2022",$0.0
+Microsoft Launcher,com.microsoft.launcher,4.7,1.5M reviews,50M+,Everyone,Personalization,Microsoft Corporation,Personalization | ,"Oct 10, 2022",$0.0
+Real Followers & Likes via Tag,com.redcherry.hotquotes.hot.followers,4.8,775K reviews,5M+,Everyone,Personalization,Marc Atencgo LTD,#8 top grossing personalization | Personalization | ,"Feb 8, 2021",$0.0
+Google Photos,com.google.android.apps.photos,4.5,46.2M reviews,5B+,Everyone,Photography,Google LLC,#4 top free photography | Photography | ,"Oct 12, 2022",$0.0
+Gallery,com.google.android.apps.photosgo,4.4,171K reviews,100M+,Everyone,Photography,Google LLC,Photography | ,"Sep 6, 2022",$0.0
+"BeautyPlus - Retouch, Filters",com.commsource.beautyplus,4.5,4.88M reviews,100M+,Everyone,Photography,PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.,Photography | ,"Oct 13, 2022",$0.0
+Polarr: Photo Filters & Editor,photo.editor.polarr,3.7,94.2K reviews,10M+,Everyone,Photography,Polarr,Photography | ,"Oct 10, 2022",$0.0
+FaceApp: Face Editor,io.faceapp,4.6,4.5M reviews,100M+,Everyone,Photography,FaceApp Technology Ltd,#2 top grossing photography | Photography | ,"Oct 3, 2022",$0.0
+Photoshop Express Photo Editor,com.adobe.psmobile,4.3,1.87M reviews,100M+,Everyone,Photography,Adobe,Photography | ,"Oct 14, 2022",$0.0
+YouCam Makeup - Selfie Editor,com.cyberlink.youcammakeup,4.4,4.15M reviews,100M+,Everyone,Photography,Perfect Mobile Corp. Photo & Video Beauty Editor,Photography | ,"Oct 13, 2022",$0.0
+Camera360 :Photo Editor&Selfie,vStudio.Android.Camera360,4.4,5.05M reviews,100M+,Everyone,Photography,PinGuo Inc.,Photography | ,"Oct 12, 2022",$0.0
+PhotoScan by Google Photos,com.google.android.apps.photos.scanner,4.2,173K reviews,10M+,Everyone,Photography,Google LLC,Photography | ,"Apr 26, 2019",$0.0
+Shutterfly: Prints Cards Gifts,com.shutterfly,4.6,212K reviews,10M+,Everyone,Photography,"Shutterfly, Inc",Photography | ,"Oct 4, 2022",$0.0
+Amazon Photos,com.amazon.clouddrive.photos,4.7,626K reviews,50M+,Everyone,Photography,Amazon Mobile LLC,#2 top free photography | Photography | ,"Mar 23, 2022",$0.0
+Private Photo Vault - Keepsafe,com.kii.safe,4.4,1.8M reviews,50M+,Everyone,Photography,Keepsafe,#4 top grossing photography | Photography | ,"Oct 10, 2022",$0.0
+FreePrints Gifts,com.planetart.fpgifts.ww,4.7,18K reviews,500K+,Everyone,Photography,PlanetArt,Photography | ,"Sep 26, 2022",$0.0
+FaceApp: Face Editor,io.faceapp,4.6,4.5M reviews,100M+,Everyone,Photography,FaceApp Technology Ltd,#2 top grossing photography | Photography | ,"Oct 3, 2022",$0.0
+Photoshop Express Photo Editor,com.adobe.psmobile,4.3,1.87M reviews,100M+,Everyone,Photography,Adobe,Photography | ,"Oct 14, 2022",$0.0
+YouCam Makeup - Selfie Editor,com.cyberlink.youcammakeup,4.4,4.15M reviews,100M+,Everyone,Photography,Perfect Mobile Corp. Photo & Video Beauty Editor,Photography | ,"Oct 13, 2022",$0.0
+Camera360 :Photo Editor&Selfie,vStudio.Android.Camera360,4.4,5.05M reviews,100M+,Everyone,Photography,PinGuo Inc.,Photography | ,"Oct 12, 2022",$0.0
+PhotoScan by Google Photos,com.google.android.apps.photos.scanner,4.2,173K reviews,10M+,Everyone,Photography,Google LLC,Photography | ,"Apr 26, 2019",$0.0
+Shutterfly: Prints Cards Gifts,com.shutterfly,4.6,212K reviews,10M+,Everyone,Photography,"Shutterfly, Inc",Photography | ,"Oct 4, 2022",$0.0
+Amazon Photos,com.amazon.clouddrive.photos,4.7,626K reviews,50M+,Everyone,Photography,Amazon Mobile LLC,#2 top free photography | Photography | ,"Mar 23, 2022",$0.0
+Private Photo Vault - Keepsafe,com.kii.safe,4.4,1.8M reviews,50M+,Everyone,Photography,Keepsafe,#4 top grossing photography | Photography | ,"Oct 10, 2022",$0.0
+FreePrints Gifts,com.planetart.fpgifts.ww,4.7,18K reviews,500K+,Everyone,Photography,PlanetArt,Photography | ,"Sep 26, 2022",$0.0
+Google Assistant,com.google.android.apps.googleassistant,3.9,698K reviews,1B+,Everyone,Productivity,Google LLC,Productivity | ,"Sep 15, 2022",$0.0
+Chrome Beta,com.chrome.beta,4.4,443K reviews,10M+,Everyone,Productivity,Google LLC,Productivity | ,"Oct 12, 2022",$0.0
+Google Drive,com.google.android.apps.docs,4.4,9.46M reviews,5B+,Everyone,Productivity,Google LLC,#4 top grossing productivity | Productivity | ,"Oct 14, 2022",$0.0
+Google Calendar,com.google.android.calendar,4.2,2.16M reviews,1B+,Everyone,Productivity,Google LLC,Productivity | ,"Oct 10, 2022",$0.0
+Google Keep - Notes and Lists,com.google.android.keep,4.2,1.43M reviews,1B+,Everyone,Productivity,Google LLC,Productivity | ,"Oct 12, 2022",$0.0
+AVG Cleaner – Storage Cleaner,com.avg.cleaner,4.7,1.6M reviews,50M+,Everyone,Productivity,AVG Mobile,Productivity | ,"Oct 13, 2022",$0.0
+Google One,com.google.android.apps.subscriptions.red,4.3,387K reviews,500M+,Everyone,Productivity,Google LLC,#1 top grossing productivity | Productivity | ,"Oct 11, 2022",$0.0
+Google Docs,com.google.android.apps.docs.editors.docs,4.2,1.73M reviews,1B+,Everyone,Productivity,Google LLC,#3 top free productivity | Productivity | ,"Oct 13, 2022",$0.0
+Google Tasks,com.google.android.apps.tasks,4.6,274K reviews,10M+,Everyone,Productivity,Google LLC,Productivity | ,"Oct 3, 2022",$0.0
+Content Transfer,com.verizon.contenttransfer,4.5,56.4K reviews,10M+,Everyone,Productivity,Verizon Consumer Group,Productivity | ,"Jul 22, 2022",$0.0
+Email - Fast & Secure Mail,com.easilydo.mail,4.6,158K reviews,5M+,Everyone,Productivity,Edison Software,Productivity | ,"Oct 13, 2022",$0.0
+Microsoft Translator,com.microsoft.translator,4.7,675K reviews,50M+,Everyone,Productivity,Microsoft Corporation,Productivity | ,"Sep 1, 2022",$0.0
+Google Slides,com.google.android.apps.docs.editors.slides,4.1,577K reviews,1B+,Everyone,Productivity,Google LLC,Productivity | ,"Oct 13, 2022",$0.0
+Microsoft OneDrive,com.microsoft.skydrive,4.6,3.71M reviews,1B+,Everyone,Productivity,Microsoft Corporation,#2 top grossing productivity | Productivity | ,"Oct 7, 2022",$0.0
+Smart Home Manager,com.att.shm,4.5,54.5K reviews,1M+,Everyone,Productivity,"AT&T Services, Inc.",Productivity | ,"Sep 27, 2022",$0.0
+LastPass Password Manager,com.lastpass.lpandroid,3.8,221K reviews,10M+,Everyone,Productivity,"GoTo Technologies USA, Inc.",Productivity | ,"Sep 30, 2022",$0.0
+Xfinity,com.xfinity.digitalhome,3.7,106K reviews,5M+,Everyone,Productivity,Comcast,#5 top free productivity | Productivity | ,"Oct 11, 2022",$0.0
+Google Keep - Notes and Lists,com.google.android.keep,4.2,1.43M reviews,1B+,Everyone,Productivity,Google LLC,Productivity | ,"Oct 12, 2022",$0.0
+Google Docs,com.google.android.apps.docs.editors.docs,4.2,1.73M reviews,1B+,Everyone,Productivity,Google LLC,#3 top free productivity | Productivity | ,"Oct 13, 2022",$0.0
+Google Tasks,com.google.android.apps.tasks,4.6,274K reviews,10M+,Everyone,Productivity,Google LLC,Productivity | ,"Oct 3, 2022",$0.0
+Content Transfer,com.verizon.contenttransfer,4.5,56.4K reviews,10M+,Everyone,Productivity,Verizon Consumer Group,Productivity | ,"Jul 22, 2022",$0.0
+Email - Fast & Secure Mail,com.easilydo.mail,4.6,158K reviews,5M+,Everyone,Productivity,Edison Software,Productivity | ,"Oct 13, 2022",$0.0
+Google Slides,com.google.android.apps.docs.editors.slides,4.1,577K reviews,1B+,Everyone,Productivity,Google LLC,Productivity | ,"Oct 13, 2022",$0.0
+Microsoft OneDrive,com.microsoft.skydrive,4.6,3.71M reviews,1B+,Everyone,Productivity,Microsoft Corporation,#2 top grossing productivity | Productivity | ,"Oct 7, 2022",$0.0
+LifeUp: Gamify To-Do & Habit,net.sarasarasa.lifeup,4.6,1.69K reviews,50K+,Everyone,Productivity,AyagiKei,#7 top paid productivity | Productivity | Play Pass | ,"Sep 22, 2022",$2.99
+MiXplorer Silver File Manager,com.mixplorer.silver,4.3,2.49K reviews,10K+,Everyone,Productivity,Hootan Parsa,Productivity | ,"Sep 8, 2022",$4.99
+QuickEdit Text Editor Pro,com.rhmsoft.edit.pro,4.2,3.35K reviews,50K+,Everyone,Productivity,Rhythm Software,Productivity | Play Pass | ,"Oct 14, 2022",$3.99
+CamScanner (License),com.intsig.lic.camscanner,2,38.9K reviews,1M+,Everyone,Productivity,INTSIG,Productivity | ,"Jul 23, 2020",$1.99
+aCalendar+ Calendar & Tasks,org.withouthat.acalendarplus,4.7,35.4K reviews,500K+,Everyone,Productivity,Tapir Apps GmbH,Productivity | ,"May 30, 2022",$5.99
+aWallet Cloud Password Manager,org.awallet.cloud,4.8,13.9K reviews,100K+,Everyone,Productivity,Synpet,Productivity | Play Pass | ,"Sep 10, 2022",$3.49
+Plague Inc: Scenario Creator,com.ndemiccreations.scenariocreator,3.8,2.39K reviews,100K+,Everyone,Productivity,Ndemic Creations,#8 top paid productivity | Productivity | ,"Jul 28, 2022",$3.99
+DigiCal+ Calendar,com.digibites.calendarplus,4.6,25K reviews,100K+,Everyone,Productivity,Digibites,Productivity | ,"Dec 7, 2020",$4.99
+HotSchedules,com.tdr3.hs.android,3.4,22.6K reviews,1M+,Everyone,Productivity,HotSchedules,#1 top paid productivity | Productivity | ,"Oct 6, 2022",$2.99
+Duet Display,com.kairos.duet,4.4,3.23K reviews,100K+,Everyone,Productivity,"Duet, Inc.",#9 top paid productivity | Productivity | ,"Sep 7, 2022",$9.99
+"Noteshelf - Notes, Annotations",com.fluidtouch.noteshelf2,3.3,11.1K reviews,100K+,Everyone,Productivity,Fluid Touch,#5 top paid productivity | Productivity | ,"Oct 6, 2022",$4.99
+Password Manager SafeInCloud ℗,com.safeincloud,4.7,31.4K reviews,100K+,Everyone,Productivity,Safe In Cloud,Productivity | Play Pass | ,"Aug 24, 2022",$9.99
+AVG Cleaner – Storage Cleaner,com.avg.cleaner,4.7,1.6M reviews,50M+,Everyone,Productivity,AVG Mobile,Productivity | ,"Oct 13, 2022",$0.0
+Google One,com.google.android.apps.subscriptions.red,4.3,387K reviews,500M+,Everyone,Productivity,Google LLC,#1 top grossing productivity | Productivity | ,"Oct 11, 2022",$0.0
+Microsoft Translator,com.microsoft.translator,4.7,675K reviews,50M+,Everyone,Productivity,Microsoft Corporation,Productivity | ,"Sep 1, 2022",$0.0
+Smart Home Manager,com.att.shm,4.5,54.5K reviews,1M+,Everyone,Productivity,"AT&T Services, Inc.",Productivity | ,"Sep 27, 2022",$0.0
+LastPass Password Manager,com.lastpass.lpandroid,3.8,221K reviews,10M+,Everyone,Productivity,"GoTo Technologies USA, Inc.",Productivity | ,"Sep 30, 2022",$0.0
+Xfinity,com.xfinity.digitalhome,3.7,106K reviews,5M+,Everyone,Productivity,Comcast,#5 top free productivity | Productivity | ,"Oct 11, 2022",$0.0
+Amazon Shopping,com.amazon.mShop.android.shopping,4.5,3.23M reviews,500M+,Teen,Shopping,Amazon Mobile LLC,#1 top free shopping | Shopping | ,"Oct 5, 2022",$0.0
+Walmart Shopping & Grocery,com.walmart.android,4.7,2.67M reviews,50M+,Everyone,Shopping,Walmart,#2 top free shopping | Shopping | ,"Oct 13, 2022",$0.0
+Target,com.target.ui,4.2,288K reviews,10M+,Everyone,Shopping,Target Corporation,Shopping | ,"Oct 13, 2022",$0.0
+OfferUp: Buy. Sell. Letgo.,com.offerup,4.3,1.09M reviews,50M+,Everyone,Shopping,OfferUp Inc.,#1 top grossing shopping | Shopping | ,"Oct 13, 2022",$0.0
+Dollar General,com.dollargeneral.android,4.7,321K reviews,10M+,Everyone,Shopping,"Dolgencorp, LLC",Shopping | ,"Sep 20, 2022",$0.0
+craigslist,org.craigslist.CraigslistMobile,4.6,132K reviews,5M+,Teen,Shopping,craigslist.org,Shopping | ,"Oct 5, 2022",$0.0
+Wayfair - Shop All Things Home,com.wayfair.wayfair,4.8,147K reviews,10M+,Everyone,Shopping,"Wayfair, LLC",Shopping | ,"Oct 12, 2022",$0.0
+The Home Depot,com.thehomedepot,4.7,257K reviews,10M+,Everyone,Shopping,"The Home Depot, Inc.",#9 top free shopping | Shopping | ,"Oct 11, 2022",$0.0
+Amazon Business: Shop and Save,com.amazon.mShop.android.business.shopping,4.7,7.64K reviews,500K+,Everyone,Shopping,Amazon Mobile LLC,Shopping | ,"Sep 20, 2022",$0.0
+Instacart: Earn money to shop,com.instacart.shopper,4.2,119K reviews,5M+,Everyone,Shopping,Instacart,Shopping | ,"Oct 14, 2022",$0.0
+"Affirm: Buy now, pay over time",com.affirm.central,4.7,176K reviews,5M+,Everyone,Shopping,"Affirm, Inc",Shopping | ,"Oct 6, 2022",$0.0
+Temu,com.einnovation.temu,4.7,487 reviews,100K+,Teen,Shopping,Temu,#4 top free shopping | Shopping | ,"Oct 14, 2022",$0.0
+Mercari: Your Marketplace,com.mercariapp.mercari,4.8,401K reviews,10M+,Everyone,Shopping,"Mercari, Inc",Shopping | ,"Oct 10, 2022",$0.0
+Fetch Rewards: Earn Gift Cards,com.fetchrewards.fetchrewards.hop,4.6,508K reviews,10M+,Everyone,Shopping,Fetch Rewards,#5 top free shopping | Shopping | ,"Oct 13, 2022",$0.0
+Shopkick: Gift Cards & Rewards,com.shopkick.app,4,232K reviews,10M+,Everyone,Shopping,Shopkick,Shopping | ,"Oct 12, 2022",$0.0
+Macy's,com.macys.android,4.6,195K reviews,5M+,Everyone,Shopping,Macy's Inc,Shopping | ,"Oct 7, 2022",$0.0
+Kroger,com.kroger.mobile,4.4,222K reviews,10M+,Everyone,Shopping,The Kroger Co.,Shopping | ,"Oct 12, 2022",$0.0
+Belk,com.belk.android.belk,4.6,13.5K reviews,1M+,Everyone,Shopping,Belk,Shopping | ,"Oct 6, 2022",$0.0
+craigslist,org.craigslist.CraigslistMobile,4.6,132K reviews,5M+,Teen,Shopping,craigslist.org,Shopping | ,"Oct 5, 2022",$0.0
+Wayfair - Shop All Things Home,com.wayfair.wayfair,4.8,147K reviews,10M+,Everyone,Shopping,"Wayfair, LLC",Shopping | ,"Oct 12, 2022",$0.0
+The Home Depot,com.thehomedepot,4.7,257K reviews,10M+,Everyone,Shopping,"The Home Depot, Inc.",#9 top free shopping | Shopping | ,"Oct 11, 2022",$0.0
+Amazon Business: Shop and Save,com.amazon.mShop.android.business.shopping,4.7,7.64K reviews,500K+,Everyone,Shopping,Amazon Mobile LLC,Shopping | ,"Sep 20, 2022",$0.0
+Instacart: Earn money to shop,com.instacart.shopper,4.2,119K reviews,5M+,Everyone,Shopping,Instacart,Shopping | ,"Oct 14, 2022",$0.0
+Temu,com.einnovation.temu,4.7,487 reviews,100K+,Teen,Shopping,Temu,#4 top free shopping | Shopping | ,"Oct 14, 2022",$0.0
+Mercari: Your Marketplace,com.mercariapp.mercari,4.8,401K reviews,10M+,Everyone,Shopping,"Mercari, Inc",Shopping | ,"Oct 10, 2022",$0.0
+Fetch Rewards: Earn Gift Cards,com.fetchrewards.fetchrewards.hop,4.6,508K reviews,10M+,Everyone,Shopping,Fetch Rewards,#5 top free shopping | Shopping | ,"Oct 13, 2022",$0.0
+Shopkick: Gift Cards & Rewards,com.shopkick.app,4,232K reviews,10M+,Everyone,Shopping,Shopkick,Shopping | ,"Oct 12, 2022",$0.0
+Macy's,com.macys.android,4.6,195K reviews,5M+,Everyone,Shopping,Macy's Inc,Shopping | ,"Oct 7, 2022",$0.0
+Kroger,com.kroger.mobile,4.4,222K reviews,10M+,Everyone,Shopping,The Kroger Co.,Shopping | ,"Oct 12, 2022",$0.0
+Belk,com.belk.android.belk,4.6,13.5K reviews,1M+,Everyone,Shopping,Belk,Shopping | ,"Oct 6, 2022",$0.0
+TikTok,com.zhiliaoapp.musically,4.4,52.5M reviews,1B+,Teen,Social,TikTok Pte. Ltd.,#1 top grossing social | Social | ,"Oct 14, 2022",$0.0
+Reddit,com.reddit.frontpage,4.1,2.67M reviews,100M+,Mature 17+,Social,reddit Inc.,#6 top free social | Social | ,"Oct 11, 2022",$0.0
+Twitter,com.twitter.android,3.7,20.3M reviews,1B+,Mature 17+,Social,"Twitter, Inc.",#5 top free social | Social | ,"Oct 11, 2022",$0.0
+Mixu - Meet on Live Video Chat,com.rc.live.livechat3,4.6,42.2K reviews,5M+,Mature 17+,Social,Breaking Barriers Now BV,Social | ,"Oct 14, 2022",$0.0
+Text Free: Call & Texting App,com.pinger.textfree,4.4,471K reviews,10M+,Everyone,Social,"Pinger, Inc",#10 top free social | Social | ,"Oct 11, 2022",$0.0
+Text Free: WiFi Calling App,com.pinger.textfree.call,4.4,108K reviews,10M+,Everyone,Social,"Pinger, Inc",Social | ,"Oct 11, 2022",$0.0
+tango-Live Stream & Video Chat,com.sgiggle.production,4.5,4.14M reviews,100M+,Mature 17+,Social,Tango,#5 top grossing social | Social | ,"Oct 5, 2022",$0.0
+LivU - Live Video Chat,com.videochat.livu,4.4,398K reviews,50M+,Mature 17+,Social,LIVU Team,Social | ,"Oct 10, 2022",$0.0
+Camsurf: Chat Random & Flirt,camsurf.com,3.7,39.1K reviews,5M+,Mature 17+,Social,CamSurf,Social | ,"Jul 19, 2022",$0.0
+MeWe,com.mewe,4.3,179K reviews,5M+,Mature 17+,Social,MeWe,Social | ,"Sep 12, 2022",$0.0
+Joi - Live Video Chat,video.chat.joi,4.4,55.3K reviews,5M+,Mature 17+,Social,VLMedia A.Ş.,#6 top grossing social | Social | ,"Oct 4, 2022",$0.0
+BuzzCast - Live Video Chat App,com.guochao.faceshow,4.2,66.3K reviews,10M+,Mature 17+,Social,VPB live video streaming,Social | ,"Oct 13, 2022",$0.0
+GETTR,com.gettr.gettr,4.6,93K reviews,5M+,Mature 17+,Social,"GETTR USA, Inc",Social | ,"Oct 13, 2022",$0.0
+SCRUFF,com.appspot.scruffapp,4,108K reviews,5M+,Mature 17+,Social,Perry Street Software,Social | ,"Sep 28, 2022",$0.0
+Text Free: Call & Texting App,com.pinger.textfree,4.4,471K reviews,10M+,Everyone,Social,"Pinger, Inc",#10 top free social | Social | ,"Oct 11, 2022",$0.0
+tango-Live Stream & Video Chat,com.sgiggle.production,4.5,4.14M reviews,100M+,Mature 17+,Social,Tango,#5 top grossing social | Social | ,"Oct 5, 2022",$0.0
+LivU - Live Video Chat,com.videochat.livu,4.4,398K reviews,50M+,Mature 17+,Social,LIVU Team,Social | ,"Oct 10, 2022",$0.0
+Camsurf: Chat Random & Flirt,camsurf.com,3.7,39.1K reviews,5M+,Mature 17+,Social,CamSurf,Social | ,"Jul 19, 2022",$0.0
+MeWe,com.mewe,4.3,179K reviews,5M+,Mature 17+,Social,MeWe,Social | ,"Sep 12, 2022",$0.0
+Joi - Live Video Chat,video.chat.joi,4.4,55.3K reviews,5M+,Mature 17+,Social,VLMedia A.Ş.,#6 top grossing social | Social | ,"Oct 4, 2022",$0.0
+BuzzCast - Live Video Chat App,com.guochao.faceshow,4.2,66.3K reviews,10M+,Mature 17+,Social,VPB live video streaming,Social | ,"Oct 13, 2022",$0.0
+GETTR,com.gettr.gettr,4.6,93K reviews,5M+,Mature 17+,Social,"GETTR USA, Inc",Social | ,"Oct 13, 2022",$0.0
+ESPN,com.espn.score_center,4.2,872K reviews,50M+,Everyone 10+,Sports,Disney,#1 top free sports | Sports | ,"Oct 12, 2022",$0.0
+Yahoo Sports: Scores & Updates,com.yahoo.mobile.client.android.sportacular,4.7,146K reviews,10M+,Everyone,Sports,Yahoo,Sports | ,"Oct 3, 2022",$0.0
+Pac-12 Now,com.pac_12.android_player,4.6,8.5K reviews,500K+,Everyone,Sports,Pac-12 Networks,Sports | ,"Oct 5, 2022",$0.0
+NFL,com.gotv.nflgamecenter.us.lite,3.9,628K reviews,100M+,Everyone,Sports,NFL Enterprises LLC,#3 top grossing sports | Sports | ,"Oct 14, 2022",$0.0
+MLB,com.bamnetworks.mobile.android.gameday.atbat,3,104K reviews,10M+,Everyone,Sports,"MLB Advanced Media, L.P.",#5 top grossing sports | Sports | ,"Oct 6, 2022",$0.0
+CBS Sports App: Scores & News,com.handmark.sportcaster,4.5,152K reviews,10M+,Everyone,Sports,"CBS Interactive, Inc.",Sports | ,"Oct 7, 2022",$0.0
+FOX Sports: Watch Live,com.foxsports.android,3.9,48.6K reviews,10M+,Teen,Sports,FOX Sports Interactive,#2 top free sports | Sports | ,"Oct 10, 2022",$0.0
+NBC Sports,air.com.nbcuni.com.nbcsports.liveextra,3.6,105K reviews,5M+,Everyone,Sports,"NBCUniversal Media, LLC",Sports | ,"Mar 29, 2022",$0.0
+MLB Ballpark,com.bamnetworks.mobile.android.ballpark,4.5,57K reviews,5M+,Everyone,Sports,"MLB Advanced Media, L.P.",Sports | ,"Oct 3, 2022",$0.0
+onX Hunt: GPS Hunting Maps,onxmaps.hunt,4.6,32.4K reviews,1M+,Everyone,Sports,onXmaps,#2 top grossing sports | Sports | ,"Oct 12, 2022",$0.0
+MLB,com.bamnetworks.mobile.android.gameday.atbat,3,104K reviews,10M+,Everyone,Sports,"MLB Advanced Media, L.P.",#5 top grossing sports | Sports | ,"Oct 6, 2022",$0.0
+CBS Sports App: Scores & News,com.handmark.sportcaster,4.5,152K reviews,10M+,Everyone,Sports,"CBS Interactive, Inc.",Sports | ,"Oct 7, 2022",$0.0
+FOX Sports: Watch Live,com.foxsports.android,3.9,48.6K reviews,10M+,Teen,Sports,FOX Sports Interactive,#2 top free sports | Sports | ,"Oct 10, 2022",$0.0
+NBC Sports,air.com.nbcuni.com.nbcsports.liveextra,3.6,105K reviews,5M+,Everyone,Sports,"NBCUniversal Media, LLC",Sports | ,"Mar 29, 2022",$0.0
+MLB Ballpark,com.bamnetworks.mobile.android.ballpark,4.5,57K reviews,5M+,Everyone,Sports,"MLB Advanced Media, L.P.",Sports | ,"Oct 3, 2022",$0.0
+Google Translate,com.google.android.apps.translate,4.4,8.55M reviews,1B+,Everyone,Tools,Google LLC,Tools | ,"Oct 12, 2022",$0.0
+Google,com.google.android.googlequicksearchbox,4.3,24.8M reviews,10B+,Everyone,Tools,Google LLC,Tools | ,"Oct 13, 2022",$0.0
+Google Authenticator,com.google.android.apps.authenticator2,3.7,417K reviews,100M+,Everyone,Tools,Google LLC,Tools | ,"Jul 14, 2022",$0.0
+Google Opinion Rewards,com.google.android.apps.paidtasks,4.7,2.87M reviews,50M+,Everyone,Tools,Google LLC,Tools | ,"Oct 3, 2022",$0.0
+DuckDuckGo Privacy Browser,com.duckduckgo.mobile.android,4.7,1.74M reviews,10M+,Everyone,Tools,DuckDuckGo,#10 top free tools | Tools | ,"Oct 2, 2022",$0.0
+"Proton VPN: Private, Secure",ch.protonvpn.android,4.6,66.1K reviews,10M+,Everyone,Tools,Proton AG,#2 top free tools | Tools | ,"Oct 7, 2022",$0.0
+SocksDroid,net.typeblog.socks,,,500K+,Everyone,Tools,Boundary Effect,Tools | ,"Apr 7, 2022",$0.0
+Private Internet Access VPN,com.privateinternetaccess.android,4.5,62.7K reviews,5M+,Everyone,Tools,"Private Internet Access, Inc",Tools | ,"May 3, 2022",$0.0
+Google Fi,com.google.android.apps.tycho,4.5,28.3K reviews,5M+,Everyone,Tools,Google LLC,Tools | ,"Oct 12, 2022",$0.0
+AVG Secure VPN Proxy & Privacy,com.avg.android.vpn,4.4,50.7K reviews,5M+,Everyone,Tools,AVG Mobile,Tools | ,"Oct 6, 2022",$0.0
+NordVPN – fast VPN for privacy,com.nordvpn.android,4.5,638K reviews,50M+,Everyone,Tools,Nord Security,#1 top grossing tools | Tools | ,"Oct 11, 2022",$0.0
+Norton Secure VPN: Wi-Fi Proxy,com.symantec.securewifi,4.4,246K reviews,10M+,Everyone,Tools,NortonMobile,#6 top grossing tools | Tools | ,"Aug 4, 2022",$0.0
+IPVanish VPN: The Fastest VPN,com.ixolit.ipvanish,4.5,39.7K reviews,5M+,Everyone,Tools,IPVanish VPN,Tools | ,"Sep 19, 2022",$0.0
+ExpressVPN: VPN Fast & Secure,com.expressvpn.vpn,4.4,290K reviews,50M+,Everyone,Tools,ExpressVPN,#3 top grossing tools | Tools | ,"Oct 11, 2022",$0.0
+DuckDuckGo Privacy Browser,com.duckduckgo.mobile.android,4.7,1.74M reviews,10M+,Everyone,Tools,DuckDuckGo,#10 top free tools | Tools | ,"Oct 2, 2022",$0.0
+"Proton VPN: Private, Secure",ch.protonvpn.android,4.6,66.1K reviews,10M+,Everyone,Tools,Proton AG,#2 top free tools | Tools | ,"Oct 7, 2022",$0.0
+SocksDroid,net.typeblog.socks,,,500K+,Everyone,Tools,Boundary Effect,Tools | ,"Apr 7, 2022",$0.0
+Private Internet Access VPN,com.privateinternetaccess.android,4.5,62.7K reviews,5M+,Everyone,Tools,"Private Internet Access, Inc",Tools | ,"May 3, 2022",$0.0
+Google Fi,com.google.android.apps.tycho,4.5,28.3K reviews,5M+,Everyone,Tools,Google LLC,Tools | ,"Oct 12, 2022",$0.0
+AVG Secure VPN Proxy & Privacy,com.avg.android.vpn,4.4,50.7K reviews,5M+,Everyone,Tools,AVG Mobile,Tools | ,"Oct 6, 2022",$0.0
+NordVPN – fast VPN for privacy,com.nordvpn.android,4.5,638K reviews,50M+,Everyone,Tools,Nord Security,#1 top grossing tools | Tools | ,"Oct 11, 2022",$0.0
+Norton Secure VPN: Wi-Fi Proxy,com.symantec.securewifi,4.4,246K reviews,10M+,Everyone,Tools,NortonMobile,#6 top grossing tools | Tools | ,"Aug 4, 2022",$0.0
+IPVanish VPN: The Fastest VPN,com.ixolit.ipvanish,4.5,39.7K reviews,5M+,Everyone,Tools,IPVanish VPN,Tools | ,"Sep 19, 2022",$0.0
+ExpressVPN: VPN Fast & Secure,com.expressvpn.vpn,4.4,290K reviews,50M+,Everyone,Tools,ExpressVPN,#3 top grossing tools | Tools | ,"Oct 11, 2022",$0.0
+Google Maps,com.google.android.apps.maps,4.1,16.4M reviews,10B+,Everyone,Travel & Local,Google LLC,Travel & Local | ,"Oct 14, 2022",$0.0
+Google Earth,com.google.earth,4.3,2.89M reviews,100M+,Everyone,Travel & Local,Google LLC,#6 top free travel & local | Travel & Local | ,"May 23, 2022",$0.0
+Google Maps Go,com.google.android.apps.mapslite,4.3,240K reviews,500M+,Everyone,Travel & Local,Google LLC,Travel & Local | ,"Mar 21, 2022",$0.0
+United Airlines,com.united.mobile.android,4.7,336K reviews,10M+,Everyone,Travel & Local,United Airlines,#8 top free travel & local | Travel & Local | ,"Oct 6, 2022",$0.0
+GasBuddy: Find & Pay for Gas,gbis.gbandroid,4.2,836K reviews,10M+,Everyone,Travel & Local,GasBuddy,Travel & Local | ,"Oct 14, 2022",$0.0
+Marriott Bonvoy™,com.marriott.mrt,4.8,200K reviews,10M+,Everyone,Travel & Local,Marriott International,Travel & Local | ,"Oct 12, 2022",$0.0
+Navigation for Google Maps Go,com.google.android.apps.navlite,4.3,335K reviews,500M+,Everyone,Travel & Local,Google LLC,Travel & Local | ,"Oct 14, 2021",$0.0
+"Priceline: Hotel, Flight & Car",com.priceline.android.negotiator,4.7,277K reviews,10M+,Everyone,Travel & Local,priceline.com,Travel & Local | ,"Oct 3, 2022",$0.0
+HotelTonight: Hotel Deals,com.hoteltonight.android.prod,4.4,67.9K reviews,5M+,Everyone,Travel & Local,HotelTonight,Travel & Local | ,"May 18, 2022",$0.0
+"Expedia: Hotels, Flights & Car",com.expedia.bookings,4.5,306K reviews,10M+,Everyone,Travel & Local,Expedia,#2 top free travel & local | Travel & Local | ,"Oct 14, 2022",$0.0
+American Airlines,com.aa.android,3.9,39.4K reviews,10M+,Everyone,Travel & Local,"American Airlines, Inc.",#5 top free travel & local | Travel & Local | ,"Sep 26, 2022",$0.0
+Lime - #RideGreen,com.limebike,4.8,389K reviews,10M+,Everyone,Travel & Local,"Neutron Holdings, Inc.",Travel & Local | ,"Oct 10, 2022",$0.0
+Upside-Cash back on gas & food,com.upside.consumer.android,4.6,201K reviews,5M+,Everyone,Travel & Local,Upside Services Inc.,#9 top free travel & local | Travel & Local | ,"Sep 21, 2022",$0.0
+Bird — Ride Electric,co.bird.android,4.7,169K reviews,10M+,Everyone,Travel & Local,"Bird Rides, Inc.",Travel & Local | ,"Oct 10, 2022",$0.0
+Hilton Honors: Book Hotels,com.hilton.android.hhonors,4.7,121K reviews,10M+,Everyone,Travel & Local,Hilton,Travel & Local | ,"Oct 11, 2022",$0.0
+Vrbo Vacation Rentals,com.vrbo.android,4.4,32.4K reviews,10M+,Everyone,Travel & Local,Vrbo,#4 top free travel & local | Travel & Local | ,"Oct 11, 2022",$0.0
+Hotels.com: Travel Booking,com.hcom.android,4.4,388K reviews,10M+,Everyone,Travel & Local,Hotels.com LP,Travel & Local | ,"Oct 14, 2022",$0.0
+Turo,com.relayrides.android.relayrides,4.9,195K reviews,5M+,Everyone,Travel & Local,Turo Inc.,Travel & Local | ,"Oct 14, 2022",$0.0
+Disneyland®,com.disney.wdpro.dlr,4.4,67.2K reviews,1M+,Everyone,Travel & Local,Disney,Travel & Local | ,"Oct 12, 2022",$0.0
+Marriott Bonvoy™,com.marriott.mrt,4.8,200K reviews,10M+,Everyone,Travel & Local,Marriott International,Travel & Local | ,"Oct 12, 2022",$0.0
+"Priceline: Hotel, Flight & Car",com.priceline.android.negotiator,4.7,277K reviews,10M+,Everyone,Travel & Local,priceline.com,Travel & Local | ,"Oct 3, 2022",$0.0
+"Expedia: Hotels, Flights & Car",com.expedia.bookings,4.5,306K reviews,10M+,Everyone,Travel & Local,Expedia,#2 top free travel & local | Travel & Local | ,"Oct 14, 2022",$0.0
+American Airlines,com.aa.android,3.9,39.4K reviews,10M+,Everyone,Travel & Local,"American Airlines, Inc.",#5 top free travel & local | Travel & Local | ,"Sep 26, 2022",$0.0
+Lime - #RideGreen,com.limebike,4.8,389K reviews,10M+,Everyone,Travel & Local,"Neutron Holdings, Inc.",Travel & Local | ,"Oct 10, 2022",$0.0
+Upside-Cash back on gas & food,com.upside.consumer.android,4.6,201K reviews,5M+,Everyone,Travel & Local,Upside Services Inc.,#9 top free travel & local | Travel & Local | ,"Sep 21, 2022",$0.0
+Bird — Ride Electric,co.bird.android,4.7,169K reviews,10M+,Everyone,Travel & Local,"Bird Rides, Inc.",Travel & Local | ,"Oct 10, 2022",$0.0
+Hilton Honors: Book Hotels,com.hilton.android.hhonors,4.7,121K reviews,10M+,Everyone,Travel & Local,Hilton,Travel & Local | ,"Oct 11, 2022",$0.0
+Vrbo Vacation Rentals,com.vrbo.android,4.4,32.4K reviews,10M+,Everyone,Travel & Local,Vrbo,#4 top free travel & local | Travel & Local | ,"Oct 11, 2022",$0.0
+Hotels.com: Travel Booking,com.hcom.android,4.4,388K reviews,10M+,Everyone,Travel & Local,Hotels.com LP,Travel & Local | ,"Oct 14, 2022",$0.0
+Turo,com.relayrides.android.relayrides,4.9,195K reviews,5M+,Everyone,Travel & Local,Turo Inc.,Travel & Local | ,"Oct 14, 2022",$0.0
+Disneyland®,com.disney.wdpro.dlr,4.4,67.2K reviews,1M+,Everyone,Travel & Local,Disney,Travel & Local | ,"Oct 12, 2022",$0.0
+YouTube,com.google.android.youtube,4.2,144M reviews,10B+,Teen,Video Players & Editors,Google LLC,#6 top free video players & editors | Video Players & Editors | ,"Oct 14, 2022",$0.0
+YouTube Studio,com.google.android.apps.youtube.creator,4.2,1.69M reviews,100M+,Teen,Video Players & Editors,Google LLC,#7 top free video players & editors | Video Players & Editors | ,"Oct 12, 2022",$0.0
+TiviMate IPTV Player,ar.tvplayer.tv,4,2.01K reviews,1M+,Everyone,Video Players & Editors,Armobsoft FZE,Video Players & Editors | ,"Oct 3, 2022",$0.0
+Cartoon Network App,com.turner.cnvideoapp,3.7,136K reviews,10M+,Everyone 10+,Video Players & Editors,Cartoon Network,Video Players & Editors | ,"Feb 2, 2022",$0.0
+Kodi,org.xbmc.kodi,3.9,319K reviews,50M+,Everyone,Video Players & Editors,Kodi Foundation,Video Players & Editors | ,"Oct 24, 2021",$0.0
+Mobizen Screen Recorder for LG,com.rsupport.mobizen.lg,3.6,132K reviews,10M+,Everyone,Video Players & Editors,MOBIZEN,Video Players & Editors | ,"Aug 9, 2022",$0.0
+Screen Recorder Video Recorder,screenrecorder.recorder.editor,4.5,1.53M reviews,100M+,Everyone,Video Players & Editors,VIDEOSHOW Video Editor & Video Maker LTD.,Video Players & Editors | ,"Oct 10, 2022",$0.0
+Filto: Video Filter Editor,com.video.editor.filto,4.3,17.1K reviews,5M+,Everyone,Video Players & Editors,Pinso.Inc,#2 top free video players & editors | Video Players & Editors | ,"Sep 1, 2022",$0.0
+AZ Screen Recorder,com.hecorat.screenrecorder.free,4.4,1.63M reviews,50M+,Everyone,Video Players & Editors,AZ Screen Recorder,Video Players & Editors | ,"Oct 6, 2022",$0.0
+Google TV,com.google.android.videos,3.9,2.2M reviews,5B+,Teen,Video Players & Editors,Google LLC,Video Players & Editors | ,"Sep 28, 2022",$0.0
+Cute CUT - Video Editor & Movi,com.mobivio.android.cutecut,4.2,371K reviews,10M+,Everyone,Video Players & Editors,MobiVio Solutions,Video Players & Editors | ,"Nov 18, 2018",$0.0
+Funimate Video Editor & Maker,com.avcrbt.funimate,4.4,1.1M reviews,10M+,Teen,Video Players & Editors,AVCR Inc.,Video Players & Editors | ,"Aug 25, 2022",$0.0
+VivaVideo - Video Editor&Maker,com.quvideo.xiaoying,4.4,13M reviews,100M+,Everyone,Video Players & Editors,QuVideo Inc. Video Editor & Video Maker App,#4 top grossing video players & editors | Video Players & Editors | ,"Oct 9, 2022",$0.0
+GIPHY: GIF & Sticker Keyboard ,com.giphy.messenger,4.2,226K reviews,50M+,Teen,Video Players & Editors,"Giphy, Inc.",Video Players & Editors | ,"Oct 10, 2022",$0.0
+Imgur: Funny Memes & GIF Maker,com.imgur.mobile,3.1,218K reviews,10M+,Teen,Video Players & Editors,Imgur,Video Players & Editors | ,"Sep 28, 2022",$0.0
+GoPro Quik: Video Editor,com.gopro.smarty,4.4,703K reviews,10M+,Everyone,Video Players & Editors,GoPro,#1 top grossing video players & editors | Video Players & Editors | ,"Oct 11, 2022",$0.0
+Web Video Caster Receiver,com.instantbits.cast.receiver,3.9,3.4K reviews,1M+,Everyone,Video Players & Editors,InstantBits Inc,Video Players & Editors | ,"Oct 7, 2022",$0.0
+Televizo - IPTV player,com.ottplay.ottplay,4.4,5.85K reviews,1M+,Everyone,Video Players & Editors,Andrey Menscikov,Video Players & Editors | ,"Oct 3, 2022",$0.0
+Emby for Android TV,tv.emby.embyatv,3.7,953 reviews,100K+,Everyone,Video Players & Editors,Emby Media,Video Players & Editors | ,"Aug 12, 2022",$0.0
+Google TV,com.google.android.videos,3.9,2.2M reviews,5B+,Teen,Video Players & Editors,Google LLC,Video Players & Editors | ,"Sep 28, 2022",$0.0
+YouTube,com.google.android.youtube,4.2,144M reviews,10B+,Teen,Video Players & Editors,Google LLC,#6 top free video players & editors | Video Players & Editors | ,"Oct 14, 2022",$0.0
+Mobizen Screen Recorder for LG,com.rsupport.mobizen.lg,3.6,132K reviews,10M+,Everyone,Video Players & Editors,MOBIZEN,Video Players & Editors | ,"Aug 9, 2022",$0.0
+Screen Recorder Video Recorder,screenrecorder.recorder.editor,4.5,1.53M reviews,100M+,Everyone,Video Players & Editors,VIDEOSHOW Video Editor & Video Maker LTD.,Video Players & Editors | ,"Oct 10, 2022",$0.0
+Filto: Video Filter Editor,com.video.editor.filto,4.3,17.1K reviews,5M+,Everyone,Video Players & Editors,Pinso.Inc,#2 top free video players & editors | Video Players & Editors | ,"Sep 1, 2022",$0.0
+Cute CUT - Video Editor & Movi,com.mobivio.android.cutecut,4.2,371K reviews,10M+,Everyone,Video Players & Editors,MobiVio Solutions,Video Players & Editors | ,"Nov 18, 2018",$0.0
+Funimate Video Editor & Maker,com.avcrbt.funimate,4.4,1.1M reviews,10M+,Teen,Video Players & Editors,AVCR Inc.,Video Players & Editors | ,"Aug 25, 2022",$0.0
+VivaVideo - Video Editor&Maker,com.quvideo.xiaoying,4.4,13M reviews,100M+,Everyone,Video Players & Editors,QuVideo Inc. Video Editor & Video Maker App,#4 top grossing video players & editors | Video Players & Editors | ,"Oct 9, 2022",$0.0
+GIPHY: GIF & Sticker Keyboard ,com.giphy.messenger,4.2,226K reviews,50M+,Teen,Video Players & Editors,"Giphy, Inc.",Video Players & Editors | ,"Oct 10, 2022",$0.0
+GoPro Quik: Video Editor,com.gopro.smarty,4.4,703K reviews,10M+,Everyone,Video Players & Editors,GoPro,#1 top grossing video players & editors | Video Players & Editors | ,"Oct 11, 2022",$0.0
+Local Weather：Weather Forecast,life.channel.accurate.local.weather.forecast,4.9,175K reviews,1M+,Everyone,Weather,Enjoy Life Studio,Weather | ,"Oct 11, 2022",$0.0
+The Weather Channel - Radar,com.weather.Weather,4.6,2.72M reviews,100M+,Everyone,Weather,The Weather Channel,#1 top free weather | Weather | ,"Oct 10, 2022",$0.0
+Weather Forecast,com.info.weather.forecast,4.8,77K reviews,1M+,Everyone,Weather,Convenient & Easy Apps,Weather | ,"Sep 8, 2022",$0.0
+Weather: Live radar & widgets,com.accurate.weather.forecast.live,4.8,217K reviews,10M+,Everyone,Weather,Weather Forecast & Widget & Radar,#3 top free weather | Weather | ,"Oct 13, 2022",$0.0
+Local Weather Alerts - Widget,live.weather.vitality.studio.forecast.widget,4.9,153K reviews,1M+,Everyone,Weather,Vitality App Studios,Weather | ,"Oct 9, 2022",$0.0
+1Weather Forecasts & Radar,com.handmark.expressweather,4.5,978K reviews,50M+,Everyone,Weather,OneLouder Apps,#7 top free weather | Weather | ,"Oct 12, 2022",$0.0
+Weather XL PRO,com.exovoid.weather.app,4.4,463K reviews,10M+,Everyone,Weather,Exovoid Sàrl,Weather | Play Pass | ,"Sep 24, 2022",$0.0
+Weather Live - Widgets & Radar,com.channel.live.accuate.forecast.weather,4.9,84.9K reviews,1M+,Everyone,Weather,Weather Forecast & Live Weather & Radar & Widgets,Weather | ,"Sep 30, 2022",$0.0
+Weather by WeatherBug,com.aws.android,4.7,1.63M reviews,10M+,Everyone,Weather,WeatherBug,#6 top free weather | Weather | ,"Oct 3, 2022",$0.0
+AccuWeather: Weather Radar,com.accuweather.android,3.9,2.55M reviews,100M+,Everyone,Weather,AccuWeather,#4 top free weather | Weather | ,"Sep 28, 2022",$0.0
+Windy.com - Weather Forecast,com.windyty.android,4.8,493K reviews,10M+,Everyone,Weather,Windyty SE,#9 top grossing weather | Weather | ,"Aug 4, 2022",$0.0
+Yahoo Weather,com.yahoo.mobile.client.android.weather,4.5,1.45M reviews,10M+,Everyone,Weather,Yahoo,Weather | ,"Oct 13, 2022",$0.0
+FOX Weather: Daily Forecasts,com.fox.weather,3.9,1.98K reviews,500K+,Everyone,Weather,"FOX News Network, LLC",Weather | ,"Oct 12, 2022",$0.0
+Weather & Widget - Weawow,com.weawow,4.8,504K reviews,5M+,Everyone,Weather,weawow weather app,Weather | ,"Sep 28, 2022",$0.0
+IQAir AirVisual | Air Quality,com.airvisual,4.7,250K reviews,5M+,Everyone,Weather,IQAir AG,Weather | ,"Oct 3, 2022",$0.0
+Local Weather Alerts - Widget,live.weather.vitality.studio.forecast.widget,4.9,153K reviews,1M+,Everyone,Weather,Vitality App Studios,Weather | ,"Oct 9, 2022",$0.0
+1Weather Forecasts & Radar,com.handmark.expressweather,4.5,978K reviews,50M+,Everyone,Weather,OneLouder Apps,#7 top free weather | Weather | ,"Oct 12, 2022",$0.0
+Weather XL PRO,com.exovoid.weather.app,4.4,463K reviews,10M+,Everyone,Weather,Exovoid Sàrl,Weather | Play Pass | ,"Sep 24, 2022",$0.0
+Weather Live - Widgets & Radar,com.channel.live.accuate.forecast.weather,4.9,84.9K reviews,1M+,Everyone,Weather,Weather Forecast & Live Weather & Radar & Widgets,Weather | ,"Sep 30, 2022",$0.0
+Weather by WeatherBug,com.aws.android,4.7,1.63M reviews,10M+,Everyone,Weather,WeatherBug,#6 top free weather | Weather | ,"Oct 3, 2022",$0.0
+AccuWeather: Weather Radar,com.accuweather.android,3.9,2.55M reviews,100M+,Everyone,Weather,AccuWeather,#4 top free weather | Weather | ,"Sep 28, 2022",$0.0
+Windy.com - Weather Forecast,com.windyty.android,4.8,493K reviews,10M+,Everyone,Weather,Windyty SE,#9 top grossing weather | Weather | ,"Aug 4, 2022",$0.0
+Yahoo Weather,com.yahoo.mobile.client.android.weather,4.5,1.45M reviews,10M+,Everyone,Weather,Yahoo,Weather | ,"Oct 13, 2022",$0.0
+FOX Weather: Daily Forecasts,com.fox.weather,3.9,1.98K reviews,500K+,Everyone,Weather,"FOX News Network, LLC",Weather | ,"Oct 12, 2022",$0.0
+Weather & Widget - Weawow,com.weawow,4.8,504K reviews,5M+,Everyone,Weather,weawow weather app,Weather | ,"Sep 28, 2022",$0.0
+IQAir AirVisual | Air Quality,com.airvisual,4.7,250K reviews,5M+,Everyone,Weather,IQAir AG,Weather | ,"Oct 3, 2022",$0.0
+Unistellar,com.unistellar.evscope.android,3.6,218 reviews,10K+,Everyone,Libraries & Demo,Unistellar,Libraries & Demo | ,"Sep 12, 2022",$0.0
+Barcode Scanner,com.manateeworks.barcodescanners,4.6,10.6K reviews,1M+,Everyone,Libraries & Demo,Cognex Corporation,#10 top free libraries & demo | Libraries & Demo | ,"Sep 2, 2022",$0.0
+Cardboard,com.google.samples.apps.cardboarddemo,3.7,158K reviews,10M+,Everyone,Libraries & Demo,Google LLC,#2 top free libraries & demo | Libraries & Demo | ,"Jul 13, 2022",$0.0
+Smart Engines,com.smartengines.se,,,1K+,Everyone,Libraries & Demo,Smart Engines Service LLC,Libraries & Demo | ,"Jun 1, 2022",$0.0
+Scandit Barcode Scanner Demo,com.scandit.demoapp,4.5,1.03K reviews,100K+,Everyone,Libraries & Demo,Scandit Inc.,Libraries & Demo | ,"Oct 13, 2022",$0.0
